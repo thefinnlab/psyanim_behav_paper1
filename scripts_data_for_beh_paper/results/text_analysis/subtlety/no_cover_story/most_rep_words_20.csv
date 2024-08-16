@@ -1,0 +1,15 @@
+subtlety,most_representative_words
+180,"['motion' 'move' 'reposition' 'circularise' 'lateralize' 'collide''maneuver' 'misalign' 'wiggle' 'transition'
+ 'circle' 'drag' 'circularize' 'puzzle' 'position' 'orientate' 'drift' 'foreground' 'scatter'  'backslide']"
+150,"['motion' 'move' 'maneuver' 'lateralize' 'wiggle' 'reposition' 'collide' 'foreground' 'transition' 'misalign'
+ 'drift' 'backslide' 'puzzle' 'drag' 'position' 'swivel' 'scatter' 'interfere' 'orientate' 'disorganise']"
+120,"['motion' 'reposition' 'move' 'lateralize' 'maneuver' 'position' 'wiggle'  'foreground' 'misalign' 'drag' 
+'transition' 'swivel' 'shift' 'tilt'  'drift' 'puzzle' 'backslide' 'orientate' 'slide' 'collide']"
+90,"['motion' 'maneuver' 'lateralize' 'reposition' 'foreground' 'position'  'move' 'puzzle' 'wiggle' 'misalign'
+ 'forward' 'collide' 'mismatch' 'backslide' 'transition' 'reach' 'interfere' 'distance' 'shift' 'track']"
+60,"['motion' 'follow' 'maneuver' 'reposition' 'position' 'forward'  'foreground' 'pursue' 'move' 'lateralize'
+ 'evade' 'track' 'reach' 'stroll' 'route' 'puzzle' 'ambush' 'flank' 'walk' 'transition']"
+30,"['motion' 'reposition' 'maneuver' 'position' 'lateralize' 'follow' 'move' 'forward' 'foreground' 'pursue'
+ 'puzzle' 'evade' 'reach' 'shift' 'track'  'route' 'stroll' 'wiggle' 'transition' 'turn']"
+0,"['motion' 'follow' 'maneuver' 'reposition' 'pursue' 'position' 'evade'  'forward' 'lateralize' 'foreground'
+ 'reach' 'route' 'puzzle' 'move' 'track' 'flank' 'ambush' 'transition' 'walk' 'turn']"
