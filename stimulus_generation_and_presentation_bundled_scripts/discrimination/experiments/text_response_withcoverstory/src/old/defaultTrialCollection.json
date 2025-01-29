@@ -1,0 +1,102 @@
+[
+    {
+        "trialID": "00139b14-fa60-4af8-9eba-0b4965060c34",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep7",
+        "agentMetadata": [
+            {
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "00ccc21a-d63a-41eb-8d3b-a2315d7b0d3e",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep9",
+        "agentMetadata": [
+            {
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "0ea53c63-8350-4a50-8dec-ccbbf0e401dc",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep10",
+        "agentMetadata": [
+            {
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "124f53c2-90c6-4716-8221-e86088f8d257",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep3",
+        "agentMetadata": [
+            {
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    }
+]
