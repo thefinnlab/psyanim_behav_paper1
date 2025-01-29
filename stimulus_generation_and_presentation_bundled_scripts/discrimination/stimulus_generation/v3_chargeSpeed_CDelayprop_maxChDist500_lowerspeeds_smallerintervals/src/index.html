@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="shortcut icon" href="#">
+    <style>
+        .jspsych-display-element {
+            font-size: 24px;
+        }
+        
+        canvas {
+            /* horizontal alignment */
+            display: block;
+            margin: 0 auto;
+            /* vertical alignment */
+            /*padding-top: 200px; */
+            border: 2px solid #000;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            font-size: 24px;
+        }
+        
+        .canvas-container {
+            display: grid;
+            align-items: center;
+            justify-content: center;
+            height: 1000px;
+            grid-template-columns: 1fr 850px 1fr;
+            grid-template-rows: 1fr 650px 3fr;
+        }
+        
+        .canvas-subtext {
+            grid-column: 2 / 3;
+            grid-row: 3 / 4;
+            text-align: center;
+        }
+        
+        .phaser-canvas {
+            grid-column: 2 / 3;
+            grid-row: 2 / 3;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="psyanim-app" class="canvas-container">
+        <div id="phaser-app" class="phaser-canvas"></div>
+    </div>
+</body>
+
+</html>

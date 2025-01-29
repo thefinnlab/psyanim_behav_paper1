@@ -1,0 +1,26 @@
+{
+    "name": "playfight",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack --config ./webpack.config.js",
+        "clean": "rimraf -v ./dist",
+        "watch": "webpack --config ./webpack.config.js --watch",
+        "serve": "npx http-server ./dist -p 3000",
+        "firebase-deploy": "firebase deploy",
+        "firebase-deploy-rules": "firebase deploy --only firestore:rules",
+        "firebase-emulator": "firebase emulators:start --import=./path/to/emulator/data",
+        "delete-cloud-db": "firebase firestore:delete --all-collections",
+        "delete-cloud-animclips": "firebase firestore:delete -r /animation-clips",
+        "delete-cloud-metadata": "firebase firestore:delete -r /experiment-metadata"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "psyanim2": "github:thefinnlab/psyanim-2"
+    },
+    "type": "module"
+}
