@@ -11,3 +11,7 @@ Stimulus generation: Within each experiment folder, the subfolder 'stimulus_gene
 Most of the generation and experiments were built on an older version of psyanim (in Nov 2023), so to run these scripts, you should move the 'node_modules' folder to each experiment's folder.
 
 The trait questionnaires used for each experiment are in the subfolder '<experiment_name>/src/surveys
+
+Two large folders - node_modules and sentence-transformers_all-MiniLM-L6-v2 - were moved from GitHub to Google drive: https://drive.google.com/drive/u/1/folders/1txnW7hgLwTAAzTuGTk5s8rwWxJ0BVVIW
+
+These scripts were all run on a MacBook Pro versions 13 and 14. Experiments were built using node JS version 9.5.1 and the Python environment information for data analysis is saved in py37env.yml. All firebase files required for stimulus generation have been removed, but these are explained clearly int he psyanim repo linked above.

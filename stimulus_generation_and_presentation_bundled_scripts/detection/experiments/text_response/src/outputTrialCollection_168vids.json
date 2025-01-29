@@ -1,0 +1,4681 @@
+[{
+        "trialID": "00139b14-fa60-4af8-9eba-0b4965060c34",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep7",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "00ccc21a-d63a-41eb-8d3b-a2315d7b0d3e",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep9",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "00efb6ff-56f7-4917-9518-d8ff1ed4d352",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "01f19557-63b1-449b-9a8f-a53ade764686",
+        "sessionID": "ca4cbf38-789c-404e-b324-27dd4e809f19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos374, 95_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "0363101f-8ad9-4b32-a49c-743a28904a0f",
+        "sessionID": "7d74ca8e-6e91-488c-b32b-0ca7a7ba5850",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos628, 502_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "06f1dd04-cfbc-433c-9833-32cdb01c0683",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "07cdb9d7-6577-428d-9498-8a7243527554",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "08d6fa73-0f7f-4a5d-a343-c5539c9f44b7",
+        "sessionID": "64d3bbc2-6146-404a-a0c9-68c5454dbee9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "0a730462-ba50-4dbe-97c6-911f61a40346",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "0b80e3d6-cded-42b9-b7ff-67c9cdbcb3c5",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "0ea51ff3-f8ac-4d29-a981-0a167d74909c",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "0ea53c63-8350-4a50-8dec-ccbbf0e401dc",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep10",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1046d4b0-4bd4-4ae8-a4f2-949e08b5aa4a",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "10a07293-2c74-4b8a-bbef-b0f436cde5fb",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1133544c-e02a-40fa-8f0e-321e09bfaf18",
+        "sessionID": "cf851660-75af-41a6-9a1e-39f8af531a90",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos503, 102_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "1247c2a3-9c1a-478d-ad2b-6640715d76a4",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "124f53c2-90c6-4716-8221-e86088f8d257",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep3",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "12a3cd27-040f-4199-9edb-5cd4bb71b3d0",
+        "sessionID": "22935603-ecc2-4223-b1f8-d65987376660",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep0",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "14f7fa8d-a7a5-4171-bdbf-8a076fb08d9c",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "16088d09-c11d-4b03-8c77-f92a33554c1e",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "17e4063d-b2f1-4406-8a8f-be7151fd23c1",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1841b8a9-ff1d-481d-80de-2134f2461e8b",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "18487641-212a-4e1e-8730-31709d721382",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "19c65966-3d88-4851-afe4-ae34c498748c",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1b31e266-55d6-4286-af68-8a316608fe1f",
+        "sessionID": "1e940832-e4f7-43d8-a12a-d4b4082aa08c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos768, 67_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "1b715dd0-d113-4da2-bf60-7a9f9abdbe20",
+        "sessionID": "1e940832-e4f7-43d8-a12a-d4b4082aa08c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos768, 67_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "1bc0b0c8-e058-4a68-bdab-65b544a8848d",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1c695094-312c-450a-ac7f-f994dabb958d",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep6",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1d35e834-4947-46b2-9cbd-816ea4587c6f",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep9",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "1d4805c2-68cf-415b-af2f-f7c0564b59aa",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "21748d3e-0170-41a6-9116-15a56c49d9be",
+        "sessionID": "a3848f6c-a0bc-4446-8451-edac01d19da4",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos293, 287_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "2176e0c4-bf6c-4f4a-a64b-23825205a150",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep7",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "21ca5095-0a92-499b-9d26-d8a5f4a0841a",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep10",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "22162d51-e2bc-4fd2-af29-7d21f36eca1d",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "249089b6-ef6d-4ddb-973d-6d7b9d53baf8",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "24c2e50f-6cd9-4181-bf15-db2e7239f3c3",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "275adee0-f228-423e-816a-e5e70b874bf3",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "27771508-6d61-4618-83ca-4bc020efddfe",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep1",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "286e3344-db14-477e-ad2f-4aaa462d29bf",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "295886e2-8a24-4eb8-b749-f743b3f77e19",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "2a1ab94f-201b-4fa2-9947-1eab7365fb0f",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "2cf66fb7-ab1d-466b-be40-d9f856dc213f",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep8",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "2d4bdbd9-d1de-4787-8cc8-a317b9d4c68d",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep8",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "2f9adc31-096c-49c5-ad0e-45cea6c1a263",
+        "sessionID": "8fd5563d-eb71-4631-aa5b-413c507e551d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos632, 580_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "31932267-3908-4599-ba56-ba5043757838",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "3273fde2-4b65-4cc7-b9b3-ef2604e8a514",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "3587071e-4537-406c-83f0-d8803f077fd2",
+        "sessionID": "1b39350d-eda6-4da8-a070-b9058ba37871",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos474, 422_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "35fbacfe-f7fd-45d5-9266-5f6631809d11",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "36abe6b0-5185-4dad-8201-c13c1fa8a4ac",
+        "sessionID": "06bff653-bb0c-45a0-b6a7-cbc7218593ca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos310, 414_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "37b0c4a3-57d4-4b4a-9bf7-e4d2eb48cee6",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "3929e9d5-259e-48e5-8556-ce09d3298e6b",
+        "sessionID": "8fd5563d-eb71-4631-aa5b-413c507e551d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos632, 580_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "392a11d5-d101-452b-abbe-2fef6327567b",
+        "sessionID": "d2c7f1c3-7679-44c9-9217-210be970e344",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos726, 439_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "3a6f58b9-a472-480a-a6fb-8d825894f11a",
+        "sessionID": "7d74ca8e-6e91-488c-b32b-0ca7a7ba5850",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos628, 502_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "3a9ac477-b8f9-4d19-bc88-0a1c0b7de6a8",
+        "sessionID": "1e940832-e4f7-43d8-a12a-d4b4082aa08c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos768, 67_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "3d2cbd5f-05d3-4457-8c01-5b302d4c5de7",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "3e4850f1-08eb-4b7f-a253-925d01b19b55",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4270e833-4dad-483f-85cb-3dee1fccc571",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "4284d8dd-a24d-4019-8d51-ef5ea25d433a",
+        "sessionID": "a3d601fd-be10-4148-b6b4-fe8a0c2b9d19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "42ffed3d-edac-4ca7-9b33-6f525cb7c364",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "46975d67-ead1-4d29-93d2-9fbd40dad49d",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep7",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "47505654-05f0-4b92-a9a3-978c80bda46b",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "49e5ac90-6e7f-4243-9552-8c4c10545895",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "4a6f7598-dc16-47d6-987e-a48c1f938428",
+        "sessionID": "22935603-ecc2-4223-b1f8-d65987376660",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep0",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "4bc5af99-ede5-49ec-a929-d4fc6fae9b43",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep7",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "4c50352d-2e1e-4e2e-ad43-613002422011",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4cd79935-2124-4c73-9bff-ce0554f08119",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "4d01a600-7cc9-4842-a764-7e542e49b2ff",
+        "sessionID": "1752f7ea-3375-4fcb-8e60-c8a31d513a50",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos310, 414_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4e1f0fd0-6be1-4dea-9769-9d52ec74cd81",
+        "sessionID": "b784b5ad-370f-4c23-a226-67e5f31747d9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos54, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4e280da8-2f53-4fdf-81ca-f8372b757f6e",
+        "sessionID": "a3d601fd-be10-4148-b6b4-fe8a0c2b9d19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4e646db4-2eff-4502-93e5-442efafc7747",
+        "sessionID": "760d4702-e395-4d46-9e4b-3212626e584d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos554, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "4f077c82-959e-43e6-9381-8f6126e6ff29",
+        "sessionID": "ca4cbf38-789c-404e-b324-27dd4e809f19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos374, 95_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "53613c0d-b07e-4b22-b6ec-56dda26edc8f",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "55f379fa-f719-4bdf-85a4-a15f0d03283d",
+        "sessionID": "760d4702-e395-4d46-9e4b-3212626e584d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos554, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "5744f837-93bf-4eba-bddf-e630dedf974e",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "57dbdc86-9c49-4214-a908-c4a254e90229",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "5ce017a9-f595-403c-a861-53e49993751a",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep6",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "5d03f888-af19-414e-95d1-aa95f64cd8b1",
+        "sessionID": "cf851660-75af-41a6-9a1e-39f8af531a90",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos503, 102_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "5d69d5c8-83dd-43c4-be85-f1c2ff45960d",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "5d84c995-f49b-42d0-bf89-eb7f4bfcb1d4",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "5dbc75c6-6973-4ae1-aaf0-d3b84feb4723",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep2",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "5de53504-97fe-436b-ba5c-5bfff70f79fe",
+        "sessionID": "b784b5ad-370f-4c23-a226-67e5f31747d9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos54, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "61eee444-3c06-4628-b4f4-ff144eb1d500",
+        "sessionID": "728a9a45-6b79-4463-8a17-0fe4214af574",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos417, 525_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "6418590c-6f2d-4615-be2c-7e81c50991d2",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "64673679-e709-4919-9505-54ee39e19ae5",
+        "sessionID": "a3848f6c-a0bc-4446-8451-edac01d19da4",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos293, 287_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "6480385b-e9eb-45a9-88e3-aade6c90476d",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "65ae3786-93f4-4878-bcfe-7cee118774dc",
+        "sessionID": "8fd5563d-eb71-4631-aa5b-413c507e551d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos632, 580_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "68be0cf8-ea92-4566-b84a-cbd60b2e5547",
+        "sessionID": "22935603-ecc2-4223-b1f8-d65987376660",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep0",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "68c0fec8-cf83-48bf-8079-a5f414fe7504",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "69cbd581-b3e6-4aa9-8cc0-319380d1e9ce",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "6ccf7af8-e546-4b8c-9638-a8cfdc77fdb2",
+        "sessionID": "760d4702-e395-4d46-9e4b-3212626e584d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos554, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "701355d0-4ab7-43fb-a2dd-0392c7a45de7",
+        "sessionID": "7d74ca8e-6e91-488c-b32b-0ca7a7ba5850",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos628, 502_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "70f615a0-31d5-42b9-a44b-f5746c0b41a8",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep0",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "72e764e1-0b34-4efd-96db-5df7934b2395",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "75182d69-6502-4d35-9298-e331061c7829",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "77f3b233-1f4e-4ff8-9aee-a2c7193d7655",
+        "sessionID": "ca4cbf38-789c-404e-b324-27dd4e809f19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos374, 95_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7a0667e7-8139-4401-ac54-a32c486101b1",
+        "sessionID": "a3d601fd-be10-4148-b6b4-fe8a0c2b9d19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7b3797d6-d4cc-4819-b3ad-adfd144217e2",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "7bed8e1f-5a90-4a6d-a34e-009727a27581",
+        "sessionID": "7d74ca8e-6e91-488c-b32b-0ca7a7ba5850",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos628, 502_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7bee52f4-919b-4633-b742-a0181f5f7f01",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorblack_rep0",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "7c6817dd-b767-43f6-ac68-0526e98a6d9e",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7d6cad69-203a-49a4-9c6e-b0423a669e50",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "7da9ad01-3df5-45e9-8edf-4af0795536e1",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "7e113c5d-92b4-4c01-9588-dae0fb76eb5f",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "7e4763cb-3bf2-48e1-a717-5314c5f41fa6",
+        "sessionID": "1e940832-e4f7-43d8-a12a-d4b4082aa08c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos768, 67_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7ed77af1-6d60-43c4-9657-fde7e23cdef5",
+        "sessionID": "1e940832-e4f7-43d8-a12a-d4b4082aa08c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos768, 67_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "7fa729b4-a76f-4d75-a22b-3ecddb220ae0",
+        "sessionID": "cf851660-75af-41a6-9a1e-39f8af531a90",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos503, 102_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "802575f0-631d-4eeb-9e49-3b401b11b953",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep9",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "804f9681-f112-463c-a764-a40a823d6845",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "806dce3c-11e6-49c6-8451-980c12e415b0",
+        "sessionID": "728a9a45-6b79-4463-8a17-0fe4214af574",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos417, 525_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "816e0a69-dfb6-4a6f-8ffe-97d092e27835",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "85aa46c9-fe72-469c-a4cd-96f72ab4ccba",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "866a8867-d05f-4a43-a450-97e5fd6015f8",
+        "sessionID": "1b39350d-eda6-4da8-a070-b9058ba37871",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos474, 422_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "87b8564c-7590-4001-b1e8-6f26c4e4bf8a",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "89ce6bb6-b2cb-44cb-ba57-d78ab0224625",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "8a3a6cd1-3183-4bfd-8414-818cba62218a",
+        "sessionID": "1b39350d-eda6-4da8-a070-b9058ba37871",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos474, 422_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "8af66fd7-6ab4-47a3-a88c-02fd34772ac6",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorblack_rep3",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "8bb5c4ad-b420-47c6-8e6a-c74a127a30ce",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "8cfd37b4-08d1-4e73-97c4-bd994a4110f9",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "8d9b8961-4fb1-4413-b875-966e01b9963a",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "908170e2-ae62-4685-8bcd-9089e16e95f2",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "9093ecfa-6a76-4110-b88c-dd9330281781",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "91659665-5079-44c4-96c1-49da784170fa",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "94a4e86e-f727-4ed5-85c3-c9ab9c1c8e73",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "961ceaa3-bae4-42e6-9900-d61b3f7d2b6a",
+        "sessionID": "1b39350d-eda6-4da8-a070-b9058ba37871",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos474, 422_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "977e0607-6332-4db4-ab12-9d17dce4dc85",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint550_colorgrey_rep4",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "97de9f66-be0c-4b66-bed1-c5f85d360d26",
+        "sessionID": "d2c7f1c3-7679-44c9-9217-210be970e344",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos726, 439_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "987cd79f-7d6a-426b-8983-8bee8675f0ba",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "9996b324-9da6-4bd7-a5d5-305513d257ce",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "99fed5db-be9d-4d5f-8fef-1baaad5f1b70",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "9ae052c1-4a6c-41ec-a1d2-e991b9c454c8",
+        "sessionID": "ca4cbf38-789c-404e-b324-27dd4e809f19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos374, 95_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "9c46112a-3307-42b7-8386-bdf38ba679af",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_150_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "9dfa52b0-9e95-49de-bddb-e53316f2b4ae",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "9e873205-feb6-41c9-980d-930f2850eaef",
+        "sessionID": "ca4cbf38-789c-404e-b324-27dd4e809f19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos374, 95_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "a0907c50-1e49-490b-8fe4-a28c4b3b8be6",
+        "sessionID": "a3848f6c-a0bc-4446-8451-edac01d19da4",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos293, 287_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "a0f0c207-c5ff-40e5-a612-66cc47e3aca2",
+        "sessionID": "a3d601fd-be10-4148-b6b4-fe8a0c2b9d19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "a4025c10-2bc6-475f-b2bb-23992061eb07",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "a4bd654a-f8f1-44b4-907f-0114e1caa391",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "a5b2d14e-7379-437b-b4ce-1fc499a5afa1",
+        "sessionID": "a3848f6c-a0bc-4446-8451-edac01d19da4",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos293, 287_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "a68cb7dc-2812-45a9-b8f6-862ff43630fb",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "a7fd07d1-e946-43a4-882d-0b3b7882ed21",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "a8c7fb1b-9db5-4f8f-a05c-2ea241668e0f",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "a95096ac-e30b-4f2f-a457-133bcf21a9ec",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "aafa2477-e6f8-4a3c-83f4-90e901459a0a",
+        "sessionID": "760d4702-e395-4d46-9e4b-3212626e584d",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos554, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "ab00d160-e81d-4e88-8498-f20c2da7c451",
+        "sessionID": "cf851660-75af-41a6-9a1e-39f8af531a90",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos503, 102_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "adf2a5c5-86f0-4a90-976a-f3fdfdf528fc",
+        "sessionID": "3c342e3d-9991-4f5b-9eb7-4f8baf9178dd",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "b04bf045-4291-437c-b53e-6d779af76038",
+        "sessionID": "b784b5ad-370f-4c23-a226-67e5f31747d9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_90_preyPos54, 186_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "b4c4be26-aec9-443f-9bbd-25df99c2840d",
+        "sessionID": "1b39350d-eda6-4da8-a070-b9058ba37871",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos474, 422_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "b70d0259-cb69-48f1-b026-46452cf6e70f",
+        "sessionID": "31fbd383-7e86-476b-bf13-a4390267318e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "wanderScene_pseudoPredator_spawnPoint250_colorgrey_rep8",
+        "agentMetadata": [{
+                "name": "pseudoPredator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "pseudoPrey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "b7261f19-79df-4505-b935-0cb890ebda9c",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_120_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "b85aade3-1e8e-46a0-b961-0996e87792d3",
+        "sessionID": "1752f7ea-3375-4fcb-8e60-c8a31d513a50",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos310, 414_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "bbdbec2b-0ce6-4f9c-ad2d-e6392388d4fb",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "bf1806ce-f5bf-4267-9b59-9311a18bb8e8",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "c03f6639-c5f0-4ded-bb0a-19a112cefe1c",
+        "sessionID": "7d74ca8e-6e91-488c-b32b-0ca7a7ba5850",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_60_preyPos628, 502_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "c188e383-94d7-475e-9da5-6d1f0a1184bb",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_0_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "c53236a2-f564-41ec-89aa-2bd90765b0a4",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "c6499c88-e947-4ab5-8cde-3013da4d084f",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos250_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "c709d720-a41a-45e2-b3d2-08102ef0dd28",
+        "sessionID": "cf851660-75af-41a6-9a1e-39f8af531a90",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos503, 102_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "c7f85153-52e8-4379-839f-9596d6a3ee62",
+        "sessionID": "f5284403-6aab-437a-8ecd-4752d564218c",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "cca827ad-af9d-4cfd-ae71-7e028e3f8520",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_60_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "ceedd529-39a5-4c29-8103-d6ac89521de6",
+        "sessionID": "519ab038-a792-42dd-b906-a8e2e51e3eca",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_90_pos550_col13421772",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "cf5e29cd-eacd-4164-96d2-05de1fad88ba",
+        "sessionID": "a8348e97-00c3-4d25-b480-19df5a28c42e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPrey_subtlety_30_pos550_col0",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "d23dc934-a2e5-4952-b5f2-7acd20fccd30",
+        "sessionID": "04cae2f5-3a98-4742-a45d-4f02ea9c381e",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos606, 142_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "d9b1d24b-8e48-46f4-a110-6e0eaa636dd5",
+        "sessionID": "d2c7f1c3-7679-44c9-9217-210be970e344",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_0_preyPos726, 439_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "df2b4818-3777-48b6-924c-bcd056405d46",
+        "sessionID": "a3d601fd-be10-4148-b6b4-fe8a0c2b9d19",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos609, 354_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "e3a5008f-dda4-4675-824a-6b278e6ce08f",
+        "sessionID": "d2c7f1c3-7679-44c9-9217-210be970e344",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos726, 439_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "e9db5801-6830-4609-97a0-46296598a5b7",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_150_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "ed0ef852-3813-4796-8ef5-3a8bbef06e1b",
+        "sessionID": "edef6d63-64e4-4a83-89f3-86345a0eaa13",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_30_preyPos750, 217_mimicPos550, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    },
+    {
+        "trialID": "ff27abe6-51d5-45ca-9b97-247bc5079e60",
+        "sessionID": "73b6e0c0-7377-4179-af58-1101223c51b9",
+        "experimentName": "defaultExperimentName",
+        "sceneKey": "PredatorPreyMimic_mimic_120_preyPos160, 331_mimicPos250, 300",
+        "agentMetadata": [{
+                "name": "predator",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "preyMimic",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "depth": 1,
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "prey",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 16776960,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": ["prey"]
+    }
+]
