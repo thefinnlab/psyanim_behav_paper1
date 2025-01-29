@@ -1,0 +1,24 @@
+[{
+    "trialID": "7b253001-d3ac-4c1c-b6aa-fc60e3be73e4",
+    "sessionID": "894fa11f-bb12-4181-98b7-451776581fc6",
+    "experimentName": "video_check",
+    "sceneKey": "playfight_videocheck",
+    "agentMetadata": [{
+            "name": "pseudoPredator",
+            "shapeParams": {
+                "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                "color": 0,
+                "radius": 12
+            }
+        },
+        {
+            "name": "pseudoPrey",
+            "shapeParams": {
+                "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                "color": 13421772,
+                "radius": 12
+            }
+        }
+    ],
+    "excludeAgents": []
+}]

@@ -1,0 +1,49 @@
+[{
+        "trialID": "b680968a-aaab-4313-85ba-0ec5587d1778",
+        "sessionID": "149e48ca-8be2-456e-9c7e-37d186a90969",
+        "experimentName": "playFight_slower_BD2k_var200_CDelayvar50_maxChDist500_maxSepDur1000",
+        "sceneKey": "chSp7.75_ag1Lgrey_rep9_avgCDelay225",
+        "agentMetadata": [{
+                "name": "agent1",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "agent2",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    },
+    {
+        "trialID": "e7bdf238-755c-40b0-aef9-1cc6f74f48fb",
+        "sessionID": "0b498d22-9e52-41d7-969c-c07679393716",
+        "experimentName": "playFight_slower_BD2k_var200_CDelayvar50_maxChDist500_maxSepDur1000",
+        "sceneKey": "chSp2.75_ag1Lblack_rep2_avgCDelay525",
+        "agentMetadata": [{
+                "name": "agent1",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 0,
+                    "radius": 12
+                }
+            },
+            {
+                "name": "agent2",
+                "shapeParams": {
+                    "shapeType": "PSYANIM_SHAPE_CIRCLE",
+                    "color": 13421772,
+                    "radius": 12
+                }
+            }
+        ],
+        "excludeAgents": []
+    }
+]
