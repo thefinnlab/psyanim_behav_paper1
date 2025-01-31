@@ -1,0 +1,722 @@
+,subID,stimset_rows,chargeSpeed,stim_dur,responses,movie,trial_num
+1,28000,26,1.5,8234,collided and then bounced off each other,29e7c94f-a6bf-4f1d-8ea1-46efbdb6a836,1
+1,28001,25,1.5,8130,"The dots moved apart, and then came back together, in a slow, fluid motion over and over",e838dadb-c02f-4273-ae93-210720dcd06c,1
+3,28002,28,1.5,8325,softy hit twice,b3a507ff-2289-4ad3-8922-1a3d0532e154,3
+6,28003,29,1.5,8085,"The dots wandered and came together almost incidentally the first time, and then intentionally the second time.",1b1159fc-de2b-4ae5-a736-d98d8524a366,6
+4,28004,32,1.5,8069,softer collisons,1f6c6525-a740-48c2-8dfc-9c4fb520c630,4
+1,28005,35,1.5,8174,slow coming together,15dfbaca-4429-4c18-90f4-8d4804129e6f,1
+3,28006,36,1.5,9530,Slowly connect,1a8cf3c1-690b-449c-bb36-fd3b251837c1,3
+0,28007,33,1.5,7743,Dot moves slowly around. Hit each other twice. Didn't touch edges,9d425f58-501f-43f3-955e-05126bd09bb5,0
+4,28008,31,1.5,8235,The dots slowly gravitate towards eachother and collide then bounce away again,95aaf072-b6be-4da4-9857-deaf20ab49f2,4
+6,28009,41,1.5,8130,meandering,1b1159fc-de2b-4ae5-a736-d98d8524a366,6
+4,28010,39,1.5,8188,slow collision ,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,4
+0,28011,40,1.5,7932,crash,b3a507ff-2289-4ad3-8922-1a3d0532e154,0
+1,28012,42,1.5,8140,Collision,8ed7c0fc-1490-4e35-a000-7f7357a0772a,1
+5,28013,42,1.5,8223,the dots seemed to move more gently this time and almost met each other gently twice instead of colliding with each other this time.,8ed7c0fc-1490-4e35-a000-7f7357a0772a,5
+6,28014,45,1.5,8003,the two dots hit eachother twice and they did it very slowly,9d425f58-501f-43f3-955e-05126bd09bb5,6
+1,28015,46,1.5,8354,the dots alternated at a normal speed between pulling apart and drawing together,50919f52-6a9c-4824-b24f-2f1aebd58e1b,1
+6,28016,51,1.5,7998,touches,7e595f18-f375-4ca5-b922-61b8d693804d,6
+5,28017,48,1.5,8022,slow speed bumper cars,e4bc0778-6eb7-4065-bf77-a9b6e293735f,5
+5,28018,47,1.5,8115,The dots moved a little slower & moved together twice.,38ad4b16-44e2-4e52-8d02-b23eca73a48d,5
+3,28019,52,1.5,8058,"the grey dot slowly swept towards the black dot, the black redirected and they slowly moved towards and each other and bounced off of each other",81e3fe3f-5a7c-42d3-8ea7-c2bf3831288b,3
+4,28020,49,1.5,8008,dots gently came together,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,4
+3,28021,58,1.5,8245,the dots moved outwards before colliding together.,0e704828-9ccd-480e-8056-3a2a8158df0f,3
+3,28022,59,1.5,8002,The dots meet each other warmly.,1a8cf3c1-690b-449c-bb36-fd3b251837c1,3
+1,28023,66,1.5,8033,they went back and forth,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,1
+5,28024,65,1.5,7962,now they slowly met and touched twice,1b1159fc-de2b-4ae5-a736-d98d8524a366,5
+6,28025,63,1.5,8171,dots gently drifted towards each other to the point of colliding. the black dot seemed to instigate the drift towards the grey dot,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,6
+2,28026,64,1.5,8035,"again, they touched each other twice but a bit slower this time",9d425f58-501f-43f3-955e-05126bd09bb5,2
+2,28027,71,1.5,8243,Dots gently bumped into eachother twice,31e1789e-459a-4f3d-bfdd-2f4c8c4e9f50,2
+6,28028,68,1.5,8072,"both dots very slowly hit each other, the black was the one to make the first move.",8ed7c0fc-1490-4e35-a000-7f7357a0772a,6
+3,28029,67,1.5,8212,in this one it seems the black dot has more motion than the grey dot before being pulled in together magnetically ,1a8cf3c1-690b-449c-bb36-fd3b251837c1,3
+5,28030,74,1.5,8016,merging into each other slowly,b3a507ff-2289-4ad3-8922-1a3d0532e154,5
+1,28031,80,1.5,8142,touched,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,1
+3,28032,73,1.5,8022,they moved slower to each other,95aaf072-b6be-4da4-9857-deaf20ab49f2,3
+0,28033,83,1.5,8049,circular and magnetic,0e704828-9ccd-480e-8056-3a2a8158df0f,0
+6,28034,81,1.5,8319,Gently bounced off each other,29e7c94f-a6bf-4f1d-8ea1-46efbdb6a836,6
+3,28035,84,1.5,8031,gentle collide ,b3a507ff-2289-4ad3-8922-1a3d0532e154,3
+3,28036,76,1.5,8039,touched,50919f52-6a9c-4824-b24f-2f1aebd58e1b,3
+1,28037,77,1.5,8208,The dots moved slowly apart then together at the same speed,e838dadb-c02f-4273-ae93-210720dcd06c,1
+5,28038,86,1.5,8108,They were moving really slowly this time but still touching each other.,1f6c6525-a740-48c2-8dfc-9c4fb520c630,5
+5,28039,90,1.5,8029,The two dots gently clashed,e838dadb-c02f-4273-ae93-210720dcd06c,5
+5,28040,92,1.5,8093,bumped into each other slowly,e4bc0778-6eb7-4065-bf77-a9b6e293735f,5
+4,28041,85,1.5,9300,meeting,1b1159fc-de2b-4ae5-a736-d98d8524a366,4
+1,28042,91,1.5,8059,bounced off each other,81e3fe3f-5a7c-42d3-8ea7-c2bf3831288b,1
+3,28043,99,1.5,7981,slow,15dfbaca-4429-4c18-90f4-8d4804129e6f,3
+0,28044,96,1.5,8036,head on collision,e5e05e73-9cd0-4990-8da2-4962e0a03e5d,0
+5,28045,97,1.5,8173,group work,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,5
+3,28046,94,1.5,8002,"Gentle collisions between the two dots at the top of the screen, twice",7e595f18-f375-4ca5-b922-61b8d693804d,3
+0,28047,95,1.5,8060,both dots moved simultaneously and then hit each other twice.,95aaf072-b6be-4da4-9857-deaf20ab49f2,0
+0,28048,89,1.5,8137,The 2 dots connect to each other twice,50919f52-6a9c-4824-b24f-2f1aebd58e1b,0
+6,28049,88,1.5,8230,The black dot still on the right but on top and the grey dot on the left beneath and they just bounced on each other twice  ,38ad4b16-44e2-4e52-8d02-b23eca73a48d,6
+1,28050,98,1.5,8648,slowly came together ,8ed7c0fc-1490-4e35-a000-7f7357a0772a,1
+4,28051,4,1.5,8441,floating dots collide,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,4
+1,28052,6,1.5,8374,i dont know,1b1159fc-de2b-4ae5-a736-d98d8524a366,1
+5,28053,3,1.5,8002,Very soft collisions ,15dfbaca-4429-4c18-90f4-8d4804129e6f,5
+1,28054,8,1.5,8092,2 ,9d425f58-501f-43f3-955e-05126bd09bb5,1
+2,28055,2,1.5,8323,both went up and slowly collided twice,8ed7c0fc-1490-4e35-a000-7f7357a0772a,2
+1,28056,4,1.5,8298,meet,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,1
+4,28057,14,1.5,7939,skimmed,81e3fe3f-5a7c-42d3-8ea7-c2bf3831288b,4
+3,28058,13,1.5,9762,the two dots seems to be having an affair,1a8cf3c1-690b-449c-bb36-fd3b251837c1,3
+2,28059,80,1.5,8095,The dots each moved in a slow circular motion and then hit each other twice but this time they moved slowly toward each other and seemed to bounce off each other when they made contact.,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,2
+4,28060,19,1.5,8103,slowly came together twice,0e704828-9ccd-480e-8056-3a2a8158df0f,4
+0,28061,19,1.5,8046,collided,0e704828-9ccd-480e-8056-3a2a8158df0f,0
+0,28062,27,1.5,7999,bumps,8ed7c0fc-1490-4e35-a000-7f7357a0772a,0
+3,28063,16,1.5,9791,Slowly attract and part,e4bc0778-6eb7-4065-bf77-a9b6e293735f,3
+6,28064,17,1.5,8061,They clashed twice,31e1789e-459a-4f3d-bfdd-2f4c8c4e9f50,6
+0,28065,29,1.5,7942,"the black started on the left, bounced into the gray and they switched positions",1b1159fc-de2b-4ae5-a736-d98d8524a366,0
+0,28066,25,1.5,8067,The dots moved clockwise and bounced together twice.,e838dadb-c02f-4273-ae93-210720dcd06c,0
+4,28067,32,1.5,8032,The dots pivoted around a central point and touched a number of times,1f6c6525-a740-48c2-8dfc-9c4fb520c630,4
+3,28068,27,1.5,8087,dots gently floating and bumping off of each other twice,8ed7c0fc-1490-4e35-a000-7f7357a0772a,3
+6,28069,35,1.5,8184,bumped together,15dfbaca-4429-4c18-90f4-8d4804129e6f,6
+1,28070,26,1.5,8284,The dots moved to the left and down and collided gently twice.,29e7c94f-a6bf-4f1d-8ea1-46efbdb6a836,1
+6,28071,33,1.5,8036,steady grouping,9d425f58-501f-43f3-955e-05126bd09bb5,6
+5,28072,21,1.5,8032,Like magnets,e5e05e73-9cd0-4990-8da2-4962e0a03e5d,5
+6,28073,35,1.5,8034,the two dots gently nodded each other in a bromance,15dfbaca-4429-4c18-90f4-8d4804129e6f,6
+6,28074,38,1.5,8075,friendship,7e595f18-f375-4ca5-b922-61b8d693804d,6
+2,28075,30,1.5,8165,they roamed about and kissed each other,50919f52-6a9c-4824-b24f-2f1aebd58e1b,2
+4,28076,31,1.5,8299,white steering close to the corner,95aaf072-b6be-4da4-9857-deaf20ab49f2,4
+1,28077,39,1.5,8748,slowly circled almost mirror like then hit eachother twice,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,1
+6,28078,40,1.5,8409,"one dot floated up, the other down and left",b3a507ff-2289-4ad3-8922-1a3d0532e154,6
+5,28079,23,1.5,8038,coming close,31e1789e-459a-4f3d-bfdd-2f4c8c4e9f50,5
+3,28080,42,1.5,8151,"move away, attract and collide gently.",8ed7c0fc-1490-4e35-a000-7f7357a0772a,3
+5,28081,43,1.5,8038,swimming toeards each other nicely ,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,5
+6,28082,44,1.5,8108,bouncing off each other slowly,1f6c6525-a740-48c2-8dfc-9c4fb520c630,6
+3,28083,46,1.5,8083,both meeting each other ,50919f52-6a9c-4824-b24f-2f1aebd58e1b,3
+5,28084,47,1.5,8987,the speed of the balls were mild as they collided,38ad4b16-44e2-4e52-8d02-b23eca73a48d,5
+4,28085,51,1.5,8070,Soft contact,7e595f18-f375-4ca5-b922-61b8d693804d,4
+5,28086,50,1.5,8169,they are exchanging greetings,e5e05e73-9cd0-4990-8da2-4962e0a03e5d,5
+2,28087,48,1.5,8067,The dots approached each other cautiously and interacted a little with each other,e4bc0778-6eb7-4065-bf77-a9b6e293735f,2
+5,28088,52,1.5,8191,the two dots is moving friendly.,81e3fe3f-5a7c-42d3-8ea7-c2bf3831288b,5
+6,28089,53,1.5,8061,"Circular movement but this time, the attack wasnt fast. It was at the normal movement speed and they collided",95aaf072-b6be-4da4-9857-deaf20ab49f2,6
+6,28090,49,1.5,8229,attracting and colliding ,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,6
+1,28091,54,1.5,8029,touching,15dfbaca-4429-4c18-90f4-8d4804129e6f,1
+2,28092,55,1.5,8236,slow movements and then brief coming togethers,e838dadb-c02f-4273-ae93-210720dcd06c,2
+6,28093,56,1.5,8049,circular mirrored movements from  dots then slowly bumping eachother,29e7c94f-a6bf-4f1d-8ea1-46efbdb6a836,6
+2,28094,57,1.5,7987,They circled below the box and touched each other slowly,31e1789e-459a-4f3d-bfdd-2f4c8c4e9f50,2
+2,28095,60,1.5,8062,slower clashes,29e7c94f-a6bf-4f1d-8ea1-46efbdb6a836,2
+0,28096,59,1.5,8033,Both dots attracted each other and bounce off twice.,1a8cf3c1-690b-449c-bb36-fd3b251837c1,0
+6,28097,58,1.5,8422,mutual contact,0e704828-9ccd-480e-8056-3a2a8158df0f,6
+2,28098,64,1.5,7954,Dots slowly pushed each other.,9d425f58-501f-43f3-955e-05126bd09bb5,2
+6,28099,63,1.5,10093,Gray and black dot moved and collided slowly in the box ,d3cc8306-21ab-4f88-ae4f-3970e4cd53ea,6
+5,28100,66,1.5,8051,they collided at the top right end of the box,fc87f268-5d06-4cb4-8db9-dbf7fb69a2ce,5
+1,28101,65,1.5,8226,the dots moving round and touching each other,1b1159fc-de2b-4ae5-a736-d98d8524a366,1
+1,28102,67,1.5,8192,The dots moved slow but collided twice,1a8cf3c1-690b-449c-bb36-fd3b251837c1,1
+6,28000,26,2.75,8116,The dots bounced off each other,88ff8e25-5b4f-453c-add2-298ef66c683c,6
+5,28001,25,2.75,8075,"When the grey dot started to sink, the black dot rushed in to grab it",42a6675b-868f-488d-a671-17a04c97ab01,5
+2,28002,28,2.75,8320,slowly hit each other,94eac034-9d70-40c0-89d4-d9a030a03d26,2
+5,28003,29,2.75,8097,"The dots came together gently, twice.",cc654364-6ba7-42d1-b98c-c44f96b2e4e4,5
+5,28004,32,2.75,8079,swirling around and bouncing off each other,46c1720a-0af5-44e9-b008-09b89ef78bd9,5
+0,28005,35,2.75,8133,colliding then pushing apart,8dc79a0d-b826-4ac2-8483-04346b06960d,0
+6,28006,36,2.75,9635,Slowly bounced,4a2adf87-0f15-4bc0-9837-899addfb179c,6
+3,28007,33,2.75,7745,"Moves around slowly, accelerated into each other twice",c496efe1-6c3e-480d-856f-af132dbe7048,3
+6,28008,31,2.75,8259,"The dots move in the same pattern, then one of the dots is pulled in towards the other to collide",3fd185a3-34a1-4f1a-9d01-aee3deee3988,6
+4,28009,41,2.75,8066,bustling,59df47e5-696a-407f-aa33-94dab9b3e492,4
+0,28010,39,2.75,8108,collision,32110051-52cf-4952-a6e5-4c5fe75760b7,0
+4,28011,40,2.75,8112,slowly collided twice,42a6675b-868f-488d-a671-17a04c97ab01,4
+4,28012,42,2.75,8083,The black dot pushed the grey dot to the edge,215ead11-5650-429d-b541-0b107fbb996a,4
+4,28013,42,2.75,8208,the dots moved to the left of the screen and collided with each other x2,215ead11-5650-429d-b541-0b107fbb996a,4
+5,28014,45,2.75,8084,the two dots hit eachother but in a soft way,88ff8e25-5b4f-453c-add2-298ef66c683c,5
+2,28015,46,2.75,8293,the dots bounced off one another,c3cfe5d9-0b66-460b-a3db-a76a0df825ae,2
+5,28016,51,2.75,8046,rotating,4a2adf87-0f15-4bc0-9837-899addfb179c,5
+1,28017,48,2.75,8005,slow head-on collisions,32110051-52cf-4952-a6e5-4c5fe75760b7,1
+2,28018,47,2.75,8039,The dots moved slower and moved together & then apart twice.,8dc79a0d-b826-4ac2-8483-04346b06960d,2
+1,28019,52,2.75,8083,"the black dot slowly swept towards the grey, the grey redirected and they collided",204d8c5c-c9ac-4aef-956d-74de8c6eedc4,1
+5,28020,49,2.75,7998,slow random movement before coming together,d445e5d9-95ae-4a8f-a6bf-53380fef78b4,5
+5,28021,58,2.75,8200,The dots collided into eachother.,c49bbdbd-6e52-4da5-887c-72db9cec7d93,5
+5,28022,59,2.75,8036,The dots moving normally and in some moment they were fighting.,c496efe1-6c3e-480d-856f-af132dbe7048,5
+5,28023,66,2.75,7963,they very slowly attracted then repelled,c496efe1-6c3e-480d-856f-af132dbe7048,5
+0,28024,65,2.75,7952,they moved around and bounced into eachother twice,8fa1d226-bf98-4c72-8961-7121546d4a11,0
+5,28025,63,2.75,8131,dots gently drifted towards each other to the point of colliding and then would drift away from each other,4a2adf87-0f15-4bc0-9837-899addfb179c,5
+4,28026,64,2.75,8098,"mover around, touched each other twice",d445e5d9-95ae-4a8f-a6bf-53380fef78b4,4
+4,28027,71,2.75,8407,Dots bumped eachother from opposite ends of box,42a6675b-868f-488d-a671-17a04c97ab01,4
+3,28028,68,2.75,8045,"Both dots slowly struck each other twice, the black was the one that moved first.",0bad25fa-4a38-4561-9d35-56f1108797cd,3
+1,28029,67,2.75,8321,the black dot moves opposite of the grey dot then is pulled toward the grey dot.. its pull is stronger than the grey dots pull,46c1720a-0af5-44e9-b008-09b89ef78bd9,1
+3,28030,74,2.75,8001,uniting following each other,59df47e5-696a-407f-aa33-94dab9b3e492,3
+0,28031,80,2.75,8010,touched,c496efe1-6c3e-480d-856f-af132dbe7048,0
+5,28032,73,2.75,8066,gray one slowly moved away in between collisions,215ead11-5650-429d-b541-0b107fbb996a,5
+6,28033,83,2.75,8096,circular and then attraction collision,3fd185a3-34a1-4f1a-9d01-aee3deee3988,6
+0,28034,81,2.75,8148,The black dot seemed to be drawn to the grey dot and bounced off it,59df47e5-696a-407f-aa33-94dab9b3e492,0
+5,28035,84,2.75,8093,lazy hit,204d8c5c-c9ac-4aef-956d-74de8c6eedc4,5
+0,28036,76,2.75,7954,bumped,94eac034-9d70-40c0-89d4-d9a030a03d26,0
+5,28037,77,2.75,8183,The dots moved slowly apart then together,8dc79a0d-b826-4ac2-8483-04346b06960d,5
+4,28038,86,2.75,8135,They were hitting each other but slower this time.,bcca6dd9-a0e7-4373-9ebc-93e6e619ca4a,4
+2,28039,90,2.75,8011,The two dots clashed twice,d445e5d9-95ae-4a8f-a6bf-53380fef78b4,2
+3,28040,92,2.75,8037,bumped into each other,32110051-52cf-4952-a6e5-4c5fe75760b7,3
+2,28041,85,2.75,9457,reaching,112b96b3-6518-4053-ad9f-ff77320acc23,2
+4,28042,91,2.75,8057,gently bumped ,88ff8e25-5b4f-453c-add2-298ef66c683c,4
+5,28043,99,2.75,8051,magnetic,42a6675b-868f-488d-a671-17a04c97ab01,5
+4,28044,96,2.75,8062,dots collide more frequently,8dc79a0d-b826-4ac2-8483-04346b06960d,4
+4,28045,97,2.75,8179,they keep following each other,46c1720a-0af5-44e9-b008-09b89ef78bd9,4
+5,28046,94,2.75,8022,Two gentle collisions between the dots,94eac034-9d70-40c0-89d4-d9a030a03d26,5
+4,28047,95,2.75,8163,"Dots moved around then black one started moving towards grey closer and then they hit each other, then grey one started moving towards black one and they hit each other.",cc654364-6ba7-42d1-b98c-c44f96b2e4e4,4
+3,28048,89,2.75,8263,The dots slowly hit each other twice,c3cfe5d9-0b66-460b-a3db-a76a0df825ae,3
+1,28049,88,2.75,8366,The grey dot and black dot opposite each other hit themselves twice ,4a2adf87-0f15-4bc0-9837-899addfb179c,1
+5,28050,98,2.75,8437,they touch each other ,c49bbdbd-6e52-4da5-887c-72db9cec7d93,5
+0,28051,4,2.75,8286,collision between dots,42a6675b-868f-488d-a671-17a04c97ab01,0
+2,28052,6,2.75,8230,the dots moves and come back to meet ,4a2adf87-0f15-4bc0-9837-899addfb179c,2
+3,28053,3,2.75,8035,Slow collisions,8dc79a0d-b826-4ac2-8483-04346b06960d,3
+2,28054,8,2.75,8029,short,cc654364-6ba7-42d1-b98c-c44f96b2e4e4,2
+0,28055,2,2.75,8226,collided together twice,c3cfe5d9-0b66-460b-a3db-a76a0df825ae,0
+3,28056,4,2.75,8187,Dancing around,42a6675b-868f-488d-a671-17a04c97ab01,3
+5,28057,14,2.75,8023,collided,c496efe1-6c3e-480d-856f-af132dbe7048,5
+4,28058,13,2.75,9982,the two dots are having a friendly conversation,0bad25fa-4a38-4561-9d35-56f1108797cd,4
+3,28059,80,2.75,8081,Thes dots moved slowly towards the bottom of the square and then moved toward each other and hit each other making contact twice traveling at a slow speed each time.,c496efe1-6c3e-480d-856f-af132dbe7048,3
+2,28060,19,2.75,8182,bounced off each other twice,c49bbdbd-6e52-4da5-887c-72db9cec7d93,2
+4,28061,19,2.75,8055,Slowly hit each other,c49bbdbd-6e52-4da5-887c-72db9cec7d93,4
+4,28062,27,2.75,8045,bumps,bcca6dd9-a0e7-4373-9ebc-93e6e619ca4a,4
+2,28063,16,2.75,9503,Attract and then part,46c1720a-0af5-44e9-b008-09b89ef78bd9,2
+5,28064,17,2.75,8191,They clashed twice,112b96b3-6518-4053-ad9f-ff77320acc23,5
+2,28065,29,2.75,8057,seemed to be kind of mirroring one another and bumping into each other,cc654364-6ba7-42d1-b98c-c44f96b2e4e4,2
+4,28066,25,2.75,8094,"The dots moved slowly away from each other, came back and slowly hit each other",42a6675b-868f-488d-a671-17a04c97ab01,4
+1,28067,32,2.75,8132,The dots move similarly but unpredictably and then touched,46c1720a-0af5-44e9-b008-09b89ef78bd9,1
+0,28068,27,2.75,8007,Circled round each other and bumping into each other 2 times,bcca6dd9-a0e7-4373-9ebc-93e6e619ca4a,0
+1,28069,35,2.75,8147,crashed together,8dc79a0d-b826-4ac2-8483-04346b06960d,1
+3,28070,26,2.75,8242,The dots moved to the right and then collided gently twice.,88ff8e25-5b4f-453c-add2-298ef66c683c,3
+5,28071,33,2.75,8084,soft bounce,c496efe1-6c3e-480d-856f-af132dbe7048,5
+3,28072,21,2.75,7997,linked,0bad25fa-4a38-4561-9d35-56f1108797cd,3
+0,28073,35,2.75,8022,"the two dotsmoved similar to each other, and clashed with each other",8dc79a0d-b826-4ac2-8483-04346b06960d,0
+0,28074,38,2.75,8106,kiss and makeup,112b96b3-6518-4053-ad9f-ff77320acc23,0
+1,28075,30,2.75,8213,they came together and separated,215ead11-5650-429d-b541-0b107fbb996a,1
+3,28076,31,2.75,8264,slow paced but coming together fast,3fd185a3-34a1-4f1a-9d01-aee3deee3988,3
+2,28077,39,2.75,8542,circling before the first slow hit then the grey ball chased the black one before they hit again.,32110051-52cf-4952-a6e5-4c5fe75760b7,2
+0,28078,40,2.75,8358,left dot pulled to the right after circling,42a6675b-868f-488d-a671-17a04c97ab01,0
+4,28079,23,2.75,8051,pattern,d445e5d9-95ae-4a8f-a6bf-53380fef78b4,4
+5,28080,42,2.75,8107,They collided gently,215ead11-5650-429d-b541-0b107fbb996a,5
+2,28081,43,2.75,8117,they are meeting each other nicely ,112b96b3-6518-4053-ad9f-ff77320acc23,2
+4,28082,44,2.75,8095,mirroring each other,0bad25fa-4a38-4561-9d35-56f1108797cd,4
+1,28083,46,2.75,8122,they were attracted to each other,c3cfe5d9-0b66-460b-a3db-a76a0df825ae,1
+3,28084,47,2.75,9022,"they both moved far apart, collided, separated far again and collided again",8dc79a0d-b826-4ac2-8483-04346b06960d,3
+5,28085,51,2.75,8123,gentle collision,4a2adf87-0f15-4bc0-9837-899addfb179c,5
+0,28086,50,2.75,8192,they hit themselves,8fa1d226-bf98-4c72-8961-7121546d4a11,0
+0,28087,48,2.75,7961,The dots collided with each other from time to time and then they would distance themselves from each other and then crash and bounce away,32110051-52cf-4952-a6e5-4c5fe75760b7,0
+4,28088,52,2.75,8224,the dots speed has reduce anger has reduce.,204d8c5c-c9ac-4aef-956d-74de8c6eedc4,4
+1,28089,53,2.75,8139,"Circular movement but this time, black lead the attack on grey",3fd185a3-34a1-4f1a-9d01-aee3deee3988,1
+4,28090,49,2.75,8247,attraction,d445e5d9-95ae-4a8f-a6bf-53380fef78b4,4
+2,28091,54,2.75,8059,fighting,46c1720a-0af5-44e9-b008-09b89ef78bd9,2
+6,28092,55,2.75,8253,Two contacts with each colour taking it in turns to move first,cc654364-6ba7-42d1-b98c-c44f96b2e4e4,6
+2,28093,56,2.75,7967,random movements then crashing into eachother,94eac034-9d70-40c0-89d4-d9a030a03d26,2
+6,28094,57,2.75,8028,Circled on the middle and touched two times slowly,bcca6dd9-a0e7-4373-9ebc-93e6e619ca4a,6
+4,28095,60,2.75,8057,slow clash and rebounding,88ff8e25-5b4f-453c-add2-298ef66c683c,4
+4,28096,59,2.75,8127,"Both dots moves slowly and randomly afterwards collide in a slow fashion, this happened twice. ",c496efe1-6c3e-480d-856f-af132dbe7048,4
+5,28097,58,2.75,8355,the black dot hit the other dot,c49bbdbd-6e52-4da5-887c-72db9cec7d93,5
+6,28098,64,2.75,7993,Dots tapped each other slowly.,d445e5d9-95ae-4a8f-a6bf-53380fef78b4,6
+5,28099,63,2.75,9951,Dots moved slong the same line and collided periodically,4a2adf87-0f15-4bc0-9837-899addfb179c,5
+4,28100,66,2.75,8105,the animations moved collided at the bottom of the box,c496efe1-6c3e-480d-856f-af132dbe7048,4
+6,28101,65,2.75,8118,the dot punching,8fa1d226-bf98-4c72-8961-7121546d4a11,6
+5,28102,67,2.75,8166,The black dot chased the grey dot and hit it twice,46c1720a-0af5-44e9-b008-09b89ef78bd9,5
+3,28000,26,4.0,8173,The dots collided and then moved apart from each other,50781782-fbf2-4226-a593-5173be906638,3
+4,28001,25,4.0,8047,"The black dot went straight towards the grey dot, while the grey dot sort of moved away at first then came back together",70326c05-1133-4c5d-8a4c-3e71e0da8479,4
+4,28002,28,4.0,8315,"hit twice, not hard",1d41f125-7386-42b4-8250-f6c540c627a8,4
+0,28003,29,4.0,8082,the dots bumped into each other twice,0890b767-b394-4f89-aea1-c60cab7014af,0
+0,28004,32,4.0,8096,they swirled around and bumped into each other twice,1f7aa6f4-6516-4b90-8eeb-142b1437644b,0
+2,28005,35,4.0,8159,sudden forceful clashing ,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,2
+5,28006,36,4.0,9334,Magnetic,609aaddc-b0c4-4442-b4ef-ba29fa1dbe22,5
+5,28007,33,4.0,7709,Moving around slowly and accelerated into each other twice. Alternated which dot accelerated first each time,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,5
+1,28008,31,4.0,8300,One dot gets pulled towards the other dot then they collide,7413c064-c0e5-4104-89aa-79d64ef9d6d9,1
+1,28009,41,4.0,8215,attraction,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,1
+3,28010,39,4.0,8146,gentle collision,68382d9c-6cc5-4669-84bf-c8058e3c1472,3
+3,28011,40,4.0,8034,collided twice,1f7aa6f4-6516-4b90-8eeb-142b1437644b,3
+5,28012,42,4.0,8043,The dots bounced off each other,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,5
+0,28013,42,4.0,8229,the two dots moved and then collided with each other twice,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,0
+2,28014,45,4.0,8070,the grey dot looked like it was aiming to hit the black dot and then the black dot 'retaliated' (this hapenned twice),0890b767-b394-4f89-aea1-c60cab7014af,2
+3,28015,46,4.0,8266,the dots kept being drawn to one another but they each made the first move the two different times,7413c064-c0e5-4104-89aa-79d64ef9d6d9,3
+2,28016,51,4.0,8001,attacks,1a1c3419-9320-46a3-8b48-10e9514c3e7d,2
+3,28017,48,4.0,8015,keeping distance then attacking,50781782-fbf2-4226-a593-5173be906638,3
+4,28018,47,4.0,8070,The dots moved in their own space & then joined together & then moved apart. This occured twice.,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,4
+2,28019,52,4.0,8042,"They black dot swept towards the grey, they grey redirected and they collided. They then went separate ways before the grey swept towards the black, the black redirected and they collided",83dec58f-0765-4ddc-b785-670d8025c467,2
+1,28020,49,4.0,7986,dots passed by and then flew together,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,1
+4,28021,58,4.0,8255,the dots moved in a circular motion before hitting into eachother.,5dd4bcf1-ee00-4ee7-8a76-483bdc62202c,4
+2,28022,59,4.0,8023,The dots moving slowly but they fought each other.,1d41f125-7386-42b4-8250-f6c540c627a8,2
+0,28023,66,4.0,7969,they attracted then repelled,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,0
+1,28024,65,4.0,8040,they bumped into eachother twice again. the lighter one being more aggressive,50781782-fbf2-4226-a593-5173be906638,1
+0,28025,63,4.0,8133,dots would float away and then collide into each other,1d41f125-7386-42b4-8250-f6c540c627a8,0
+1,28026,64,4.0,8198,the crashed into each other twice again,5dd4bcf1-ee00-4ee7-8a76-483bdc62202c,1
+6,28027,71,4.0,8416,"Dots floating around and bumped into eachother twice, separating again each time",83dec58f-0765-4ddc-b785-670d8025c467,6
+4,28028,68,4.0,8029,Both dots were far apart and hit each other twice slowly.,1f7aa6f4-6516-4b90-8eeb-142b1437644b,4
+0,28029,67,4.0,8251,"the dots move opposite of each then are pulled to together, almost like a magnet.",86e26a06-c6f9-47dc-bc1f-1c78f1f93251,0
+1,28030,74,4.0,8023,bashed together twice,1a1c3419-9320-46a3-8b48-10e9514c3e7d,1
+5,28031,80,4.0,8015,touched,114b2369-dce5-4979-8319-c64c85175e6a,5
+1,28032,73,4.0,8043,"same thing, except they both moved  in circles",609aaddc-b0c4-4442-b4ef-ba29fa1dbe22,1
+2,28033,83,4.0,8072,drift and then attraction bounce,48fe3ca9-b1df-491d-bef9-6d9c5edee227,2
+1,28034,81,4.0,8223,Periodically they would bounce off each other very quickly,1d41f125-7386-42b4-8250-f6c540c627a8,1
+1,28035,84,4.0,8167,circle bash,1f7aa6f4-6516-4b90-8eeb-142b1437644b,1
+6,28036,76,4.0,8019,bumped,7413c064-c0e5-4104-89aa-79d64ef9d6d9,6
+4,28037,77,4.0,8129,The dots moved slowly apart and a bit faster together,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,4
+2,28038,86,4.0,8136,They once again were hitting each other but making small circles before doing it.,83dec58f-0765-4ddc-b785-670d8025c467,2
+1,28039,90,4.0,8076,The two dots clashed twice,0890b767-b394-4f89-aea1-c60cab7014af,1
+4,28040,92,4.0,8100,bumped into each other,68382d9c-6cc5-4669-84bf-c8058e3c1472,4
+3,28041,85,4.0,9311,fighting,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,3
+2,28042,91,4.0,8053,drawn to centre and collided,86e26a06-c6f9-47dc-bc1f-1c78f1f93251,2
+4,28043,99,4.0,7985,attraction,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,4
+3,28044,96,4.0,8095,slower headon collidion,1a1c3419-9320-46a3-8b48-10e9514c3e7d,3
+0,28045,97,4.0,8128,battle between the two dots,609aaddc-b0c4-4442-b4ef-ba29fa1dbe22,0
+2,28046,94,4.0,8013,Blacked moved first to bump into the grey dot twice,7413c064-c0e5-4104-89aa-79d64ef9d6d9,2
+2,28047,95,4.0,8192,"Both dots move around and then slowly moved closer to each other and when got too close they hit each other, this happened twice.",a0007ede-8266-4a38-bf86-2a3e66d5d5d4,2
+4,28048,89,4.0,8252,The two dot meet each other,70326c05-1133-4c5d-8a4c-3e71e0da8479,4
+3,28049,88,4.0,8164,The black dot and the grey dot switched position and hit each other twice ,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,3
+0,28050,98,4.0,8151,they hit each other,50781782-fbf2-4226-a593-5173be906638,0
+1,28051,4,4.0,8704,collision,9f53cd68-f278-45d6-806a-74eeef55bbcc,1
+4,28052,6,4.0,8462,i dont know,1f7aa6f4-6516-4b90-8eeb-142b1437644b,4
+2,28053,3,4.0,7931,Colliding into each other purposefully ,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,2
+6,28054,8,4.0,8070,l,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,6
+1,28055,2,4.0,8253,slowly collided twice,70326c05-1133-4c5d-8a4c-3e71e0da8479,1
+6,28056,4,4.0,8176,The white dot attacked the black dot.,9f53cd68-f278-45d6-806a-74eeef55bbcc,6
+6,28057,14,4.0,7974,collided,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,6
+0,28058,13,4.0,11233,two dots moving separately then colliding and move separate apart again,7413c064-c0e5-4104-89aa-79d64ef9d6d9,0
+6,28059,80,4.0,8123,The dots were floating in the center of the box and they moved slowly away from each other before heading towards each other to make contact. After making contact the first time they moved slowly toward the top of the box and away from each other before moving towards each other to make contact the second time.,114b2369-dce5-4979-8319-c64c85175e6a,6
+0,28060,19,4.0,8013,bounced off each other,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,0
+3,28061,19,4.0,8061,Bumped into each other,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,3
+5,28062,27,4.0,7957,collisions,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,5
+5,28063,16,4.0,9570,"Move diagonally, attract then part",48fe3ca9-b1df-491d-bef9-6d9c5edee227,5
+3,28064,17,4.0,8191,They clashed twice,86e26a06-c6f9-47dc-bc1f-1c78f1f93251,3
+1,28065,29,4.0,8049,"the gray seemed to start moving quick and both smacked into one another fast then went slow again, repeat",0890b767-b394-4f89-aea1-c60cab7014af,1
+6,28066,25,4.0,8012,Both dots came and bounced off each other at the same time,70326c05-1133-4c5d-8a4c-3e71e0da8479,6
+5,28067,32,4.0,8038,The dots moved in similar but delayed patterns and touched,1f7aa6f4-6516-4b90-8eeb-142b1437644b,5
+1,28068,27,4.0,8069,floated around and bumped each other twice,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,1
+2,28069,35,4.0,8137,followed one another,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,2
+4,28070,26,4.0,8106,The dots hovered around the centre and then collided gently twice.,50781782-fbf2-4226-a593-5173be906638,4
+0,28071,33,4.0,8014,attraction,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,0
+0,28072,21,4.0,7987,getting together and bouncing away,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,0
+4,28073,35,4.0,8058,the two dots clashed with each other twice,a0007ede-8266-4a38-bf86-2a3e66d5d5d4,4
+3,28074,38,4.0,8163,attraction,114b2369-dce5-4979-8319-c64c85175e6a,3
+6,28075,30,4.0,8138,they went apart and came back to each other,48fe3ca9-b1df-491d-bef9-6d9c5edee227,6
+6,28076,31,4.0,8346,white dot steering closer to the black dot,7413c064-c0e5-4104-89aa-79d64ef9d6d9,6
+5,28077,39,4.0,8644,grey moved toward black first and they collided twice in the center,68382d9c-6cc5-4669-84bf-c8058e3c1472,5
+1,28078,40,4.0,8594,both dots travelled rightwards,1f7aa6f4-6516-4b90-8eeb-142b1437644b,1
+1,28079,23,4.0,8068,attack,9f53cd68-f278-45d6-806a-74eeef55bbcc,1
+1,28080,42,4.0,8386,They moved away and came back to hit each other gently,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,1
+6,28081,43,4.0,8078,the dots are meeting ,70326c05-1133-4c5d-8a4c-3e71e0da8479,6
+2,28082,44,4.0,8229,black chased grey,fb491605-8f46-43ab-ba62-bfd86d95e4d6,2
+0,28083,46,4.0,8068,they were attacking each other,7413c064-c0e5-4104-89aa-79d64ef9d6d9,0
+6,28084,47,4.0,9028,they are colliding and separating while rotating,7c45bceb-e7dc-4a58-a9f2-02aa015541c6,6
+6,28085,51,4.0,8043,Mild collision,1a1c3419-9320-46a3-8b48-10e9514c3e7d,6
+4,28086,50,4.0,8181,they are playing,68382d9c-6cc5-4669-84bf-c8058e3c1472,4
+5,28087,48,4.0,8048,"It was a gentle interaction with each other, the dots bounced around after having interacted",50781782-fbf2-4226-a593-5173be906638,5
+3,28088,52,4.0,8214,the two dots was not that aggressive like before.,83dec58f-0765-4ddc-b785-670d8025c467,3
+4,28089,53,4.0,8081,Grey on the offensive in attacking. Circular movements,9f53cd68-f278-45d6-806a-74eeef55bbcc,4
+0,28090,49,4.0,8004,bouncing on each other,50bec0a0-7e7c-4edd-a8eb-394750dbdb77,0
+4,28091,54,4.0,8028,magnetic,86e26a06-c6f9-47dc-bc1f-1c78f1f93251,4
+1,28092,55,4.0,8443,A brief touch after slow movements,48fe3ca9-b1df-491d-bef9-6d9c5edee227,1
+0,28093,56,4.0,7921,two dots circling then crashing into each other twice,609aaddc-b0c4-4442-b4ef-ba29fa1dbe22,0
+0,28094,57,4.0,8023,They contacted with each other two times,114b2369-dce5-4979-8319-c64c85175e6a,0
+6,28095,60,4.0,8033,similar to before. slow movement and rebound,48fe3ca9-b1df-491d-bef9-6d9c5edee227,6
+2,28096,59,4.0,8191,"both dots move independently for a while and collide, afterwards separated to random individual motion. this happens twice. ",1d41f125-7386-42b4-8250-f6c540c627a8,2
+2,28097,58,4.0,8341,they came in contact slowly,5dd4bcf1-ee00-4ee7-8a76-483bdc62202c,2
+4,28098,64,4.0,8055,Dots eventually collided.,5dd4bcf1-ee00-4ee7-8a76-483bdc62202c,4
+0,28099,63,4.0,10106,magnetic attraction,1d41f125-7386-42b4-8250-f6c540c627a8,0
+3,28100,66,4.0,8086,the animations gradually collided against each other,96c2a684-adc3-4f98-8b2a-c19c48e7f5a9,3
+3,28101,65,4.0,8199,the dots moving and hitting each other,50781782-fbf2-4226-a593-5173be906638,3
+6,28102,67,4.0,8126,Both dots collided twice the grey dot ended up on top,86e26a06-c6f9-47dc-bc1f-1c78f1f93251,6
+5,28000,26,5.25,8076,"The dots moved toward each other, collided and then moved apart",384dc3de-9717-4531-83a1-683588fe1381,5
+3,28001,25,5.25,8046,"The dots swung away, then towards, each other",1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,3
+6,28002,28,5.25,8355,"hit twice, black dot went first",8b72023d-88b1-4615-b871-cac794edf1d9,6
+3,28003,29,5.25,8018,"The dots initially came toward each other simultaneously. The second time, the grey dot approached first.",0a4312a1-7156-4c68-9698-0f1495558bee,3
+6,28004,32,5.25,8060,floating around and then randomly went for eachother twice,04b8ff17-66ff-4d6b-a0aa-a91efebb4368,6
+3,28005,35,5.25,8000,angry colliding,46786fd0-ca59-4ffa-a772-fe489fdbd94c,3
+2,28006,36,5.25,9317,Black one connects to the grey,2ef99e5f-bc49-429b-b086-41ed4571b58a,2
+2,28007,33,5.25,7735,Dots moves around slowly quite far apart. Then accelerated at each other from quite far away. One dot started accelerating before the other,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,2
+2,28008,31,5.25,8260,"When the dots are within a certain range of eachother, they are pulled in and collide",4cf04acf-6776-453a-a811-1c5e51c2ece4,2
+0,28009,41,5.25,8108,collision,04b8ff17-66ff-4d6b-a0aa-a91efebb4368,0
+1,28010,39,5.25,8245,the dots collided ,5f5a825b-b433-4986-b5d6-5239eb407d32,1
+6,28011,40,5.25,8051,collided twice,1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,6
+0,28012,42,5.25,7989,The two dots bounced off each other,8b72023d-88b1-4615-b871-cac794edf1d9,0
+6,28013,42,5.25,8172,the dots moved around and collided with each other but not too aggressively x2,8b72023d-88b1-4615-b871-cac794edf1d9,6
+4,28014,45,5.25,8019,again the grey started moving toward the black dot  and they hit each other,2d3d47a2-03c8-4642-84ec-a8f67c64868c,4
+5,28015,46,5.25,8256,dots hit each other but more like dancing,35ae5b09-f580-4922-91bd-f22c23175a47,5
+1,28016,51,5.25,8014,clashes,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,1
+6,28017,48,5.25,8033,black attacking gray then collision,27f4d7f8-d998-48b2-a3e4-f885f21c713d,6
+0,28018,47,5.25,8065,The 2 dots remained separate & abruptly collided twice.,5f5a825b-b433-4986-b5d6-5239eb407d32,0
+4,28019,52,5.25,8042,the dots were moving freely before choosing to redirect and collide with each other simultaneously,8e0deaa9-1ac5-4e69-817a-3204f157f360,4
+6,28020,49,5.25,8010,"random movement, medium force collision",2ef99e5f-bc49-429b-b086-41ed4571b58a,6
+1,28021,58,5.25,8322,the dots moved towards the right then collided together.,39d4c0f1-9195-4761-98c6-457bad8a2291,1
+0,28022,59,5.25,8021,The two dots were moving and sometimes they crashed each other.,82cc23d1-ba4b-48c5-995a-a30d865ea249,0
+3,28023,66,5.25,7960,they slowly attracted and repelled,8a889364-bfa4-42f7-8d4c-ee7478ea863c,3
+2,28024,65,5.25,7952,now they hit eachother twice again but the black one seemed more aggressive,86e934a2-75ef-4084-a167-ce0ca737532d,2
+2,28025,63,5.25,8060,dots seemed to drift away from each other and then toward each other in brief intervals,0a4312a1-7156-4c68-9698-0f1495558bee,2
+3,28026,64,5.25,8034,touched each other twice,2d3d47a2-03c8-4642-84ec-a8f67c64868c,3
+1,28027,71,5.25,8397,"The dots moved away from eachother and bumped into eachother two times, they were also spinning around",9cf1ba8f-113d-408d-831d-4cf31ca51b3b,1
+2,28028,68,5.25,8029,"Both dots hit each other, the black hit first then both dots hit at the same time.",4cf04acf-6776-453a-a811-1c5e51c2ece4,2
+6,28029,67,5.25,8178,this one was tricky because at first it looked like the dots each had different motions before being pulled in together,8e0deaa9-1ac5-4e69-817a-3204f157f360,6
+4,28030,74,5.25,8048,mirroring each other and colliding,39d4c0f1-9195-4761-98c6-457bad8a2291,4
+2,28031,80,5.25,8032,slammed,8e0deaa9-1ac5-4e69-817a-3204f157f360,2
+6,28032,73,5.25,8025,the balls switched sides,8b72023d-88b1-4615-b871-cac794edf1d9,6
+5,28033,83,5.25,8084,opposites attract. like a magnet,5f5a825b-b433-4986-b5d6-5239eb407d32,5
+2,28034,81,5.25,8288,"They would attack each other quite quickly, the black dot moved first",124d9b3a-acac-4627-93e0-f05b493598f3,2
+0,28035,84,5.25,8106,floating bounce,35ae5b09-f580-4922-91bd-f22c23175a47,0
+2,28036,76,5.25,8034,collided,5f5a825b-b433-4986-b5d6-5239eb407d32,2
+3,28037,77,5.25,8242,The dots moved at the same speed apart then together,124d9b3a-acac-4627-93e0-f05b493598f3,3
+1,28038,86,5.25,8145,They were hitting each other then moving away and doing it again.,0a4312a1-7156-4c68-9698-0f1495558bee,1
+0,28039,90,5.25,7830,The two dots clashed twice,46786fd0-ca59-4ffa-a772-fe489fdbd94c,0
+1,28040,92,5.25,8058,bumped into each other,39d4c0f1-9195-4761-98c6-457bad8a2291,1
+1,28041,85,5.25,9363,defensive,86e934a2-75ef-4084-a167-ce0ca737532d,1
+0,28042,91,5.25,7963,collided twice,4cf04acf-6776-453a-a811-1c5e51c2ece4,0
+0,28043,99,5.25,8012,Bumped together,9ed3a785-369e-4eb1-b5ca-50d2602a44d4,0
+2,28044,96,5.25,8104,slow headon collision,1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,2
+6,28045,97,5.25,8305,rivals,04b8ff17-66ff-4d6b-a0aa-a91efebb4368,6
+1,28046,94,5.25,8055,Both dots moving then the grey one moved sharply and bumped against the black one twice,384dc3de-9717-4531-83a1-683588fe1381,1
+6,28047,95,5.25,8206,"Dots moved around and grey started to move faster towards black dot and then they black one reacted and also move faster towards grey dot and then they hit each other then they moved apart, this happened twice.",82cc23d1-ba4b-48c5-995a-a30d865ea249,6
+5,28048,89,5.25,8282,The two dot meet each other twice,27f4d7f8-d998-48b2-a3e4-f885f21c713d,5
+0,28049,88,5.25,8069,The black dot was moving towards the gray dot and it hit the grey dot twice,8b72023d-88b1-4615-b871-cac794edf1d9,0
+3,28050,98,5.25,8365,the ball came together ,2d3d47a2-03c8-4642-84ec-a8f67c64868c,3
+2,28051,4,5.25,8539,2 dots collide,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,2
+6,28052,6,5.25,8556,i dont know,9ed3a785-369e-4eb1-b5ca-50d2602a44d4,6
+1,28053,3,5.25,8131,Colliding ,82cc23d1-ba4b-48c5-995a-a30d865ea249,1
+0,28054,8,5.25,7982,ai,39d4c0f1-9195-4761-98c6-457bad8a2291,0
+3,28055,2,5.25,8233,the grey dot quickly hits the black,8a889364-bfa4-42f7-8d4c-ee7478ea863c,3
+0,28056,4,5.25,8040,collide,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,0
+3,28057,14,5.25,8026,collided,1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,3
+6,28058,13,5.25,10128,the black dot seem to be the one causing an issue in this case,27f4d7f8-d998-48b2-a3e4-f885f21c713d,6
+4,28059,80,5.25,8040,"The dots were a little towards the left side of the box and moved slightly in a upward motion before moving towards each other to make contact twice. This time they moved faster than previously. They did not move lighting fast, but they did not move slowly either.",8e0deaa9-1ac5-4e69-817a-3204f157f360,4
+3,28060,19,5.25,8045,bounced off each other twice,35ae5b09-f580-4922-91bd-f22c23175a47,3
+1,28061,19,5.25,8062,collided quickly and bounced off,35ae5b09-f580-4922-91bd-f22c23175a47,1
+6,28062,27,5.25,8008,collisions,27f4d7f8-d998-48b2-a3e4-f885f21c713d,6
+0,28063,16,5.25,9403,Bounced off each other,2d3d47a2-03c8-4642-84ec-a8f67c64868c,0
+2,28064,17,5.25,8097,They clashed twice,0a4312a1-7156-4c68-9698-0f1495558bee,2
+4,28065,29,5.25,7990,this one is harded....but slower bouncing into one another,0a4312a1-7156-4c68-9698-0f1495558bee,4
+1,28066,25,5.25,8113,"The dots each made a u shaped then rapidly hit each other, this was done twice.",1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,1
+6,28067,32,5.25,8010,The dots moved in a similar pattern but the light grey dot moved much more quickly before touching I think twice.,04b8ff17-66ff-4d6b-a0aa-a91efebb4368,6
+2,28068,27,5.25,8121,"black dot was the aggressor and appeared to go for the other one, bumping it twice",27f4d7f8-d998-48b2-a3e4-f885f21c713d,2
+5,28069,35,5.25,8017,move together,46786fd0-ca59-4ffa-a772-fe489fdbd94c,5
+5,28070,26,5.25,8162,The dots moved to the middle at the bottom and collided twice gently.,384dc3de-9717-4531-83a1-683588fe1381,5
+4,28071,33,5.25,8080,slow joining,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,4
+2,28072,21,5.25,8058,Meeting and separating ,124d9b3a-acac-4627-93e0-f05b493598f3,2
+2,28073,35,5.25,7925,"the black dot seemed to chase the grey dot, and clashed with it twice",46786fd0-ca59-4ffa-a772-fe489fdbd94c,2
+2,28074,38,5.25,8144,running towards each other,8a889364-bfa4-42f7-8d4c-ee7478ea863c,2
+0,28075,30,5.25,8622,they kissed each otehr,9ed3a785-369e-4eb1-b5ca-50d2602a44d4,0
+1,28076,31,5.25,8291,"drifting apart, then coming together",4cf04acf-6776-453a-a811-1c5e51c2ece4,1
+6,28077,39,5.25,8547,spun one direction then collided in the center then moved back the other direction before hitting again in the center,5f5a825b-b433-4986-b5d6-5239eb407d32,6
+3,28078,40,5.25,8500,"one dot circled, the other more straight lined",1b4e0da1-e8b8-4342-8d4f-9d2a551e7fed,3
+6,28079,23,5.25,8030,link,39d4c0f1-9195-4761-98c6-457bad8a2291,6
+4,28080,42,5.25,8137,"collide gently, move away and collide strongly",8b72023d-88b1-4615-b871-cac794edf1d9,4
+4,28081,43,5.25,8001,they are attracting each other,0a4312a1-7156-4c68-9698-0f1495558bee,4
+0,28082,44,5.25,8008,attract and collide,86e934a2-75ef-4084-a167-ce0ca737532d,0
+6,28083,46,5.25,8040,grey dot was attacking black dot,35ae5b09-f580-4922-91bd-f22c23175a47,6
+1,28084,47,5.25,8164,the speed of repel between the 2 dot is slower than before,5f5a825b-b433-4986-b5d6-5239eb407d32,1
+0,28085,51,5.25,8019,collision,9cf1ba8f-113d-408d-831d-4cf31ca51b3b,0
+1,28086,50,5.25,8304,they are trying to communicate,384dc3de-9717-4531-83a1-683588fe1381,1
+4,28087,48,5.25,8070,"If I had to explain the interaction of the dots, it is as if they were destined to fight each other",27f4d7f8-d998-48b2-a3e4-f885f21c713d,4
+2,28088,52,5.25,8213,the two dots was not that friendly to each other,8e0deaa9-1ac5-4e69-817a-3204f157f360,2
+0,28089,53,5.25,7996,Circular movement but then attacked each other,8a889364-bfa4-42f7-8d4c-ee7478ea863c,0
+2,28090,49,5.25,8199,bouncing on each other,2ef99e5f-bc49-429b-b086-41ed4571b58a,2
+5,28091,54,5.25,7908,attacking,46786fd0-ca59-4ffa-a772-fe489fdbd94c,5
+5,28092,55,5.25,8367,"Slow movements, then bacl initiates two moments of contact",124d9b3a-acac-4627-93e0-f05b493598f3,5
+1,28093,56,5.25,8023,two dots mirroring movement and crashing into eachother,4cf04acf-6776-453a-a811-1c5e51c2ece4,1
+3,28094,57,5.25,8035,They circled below the box on the right side and contacted each other two times,9ed3a785-369e-4eb1-b5ca-50d2602a44d4,3
+5,28095,60,5.25,8015,slow clash and rebound,384dc3de-9717-4531-83a1-683588fe1381,5
+1,28096,59,5.25,8299,The white dot attracts the black dot with a greater force and bounces off and this happens twice.  ,82cc23d1-ba4b-48c5-995a-a30d865ea249,1
+3,28097,58,5.25,8375,slow movement ,39d4c0f1-9195-4761-98c6-457bad8a2291,3
+1,28098,64,5.25,7977,Dots collided.,2d3d47a2-03c8-4642-84ec-a8f67c64868c,1
+3,28099,63,5.25,9931,The dots collided randomly,0a4312a1-7156-4c68-9698-0f1495558bee,3
+1,28100,66,5.25,8173,The animations were colliding in slow rhythm,8a889364-bfa4-42f7-8d4c-ee7478ea863c,1
+4,28101,65,5.25,8102,the dots moving round and touching each other,86e934a2-75ef-4084-a167-ce0ca737532d,4
+2,28102,67,5.25,8144,The dots collided two times,8e0deaa9-1ac5-4e69-817a-3204f157f360,2
+0,28000,26,6.5,8025,collided and then moved apart,8bee64f6-a3cb-48f4-be48-142b9065f5d7,0
+6,28001,25,6.5,7976,The grey dot was higher than the black dot,1827c058-6388-491a-b84c-d4d6c512039e,6
+0,28002,28,6.5,8392,they hit each other twice,93e661c0-3f68-4205-9141-04164911b7e4,0
+2,28003,29,6.5,8061,"The black dot moved toward the grey dot first, after which the grey dot bumped into the black dot. This happened twice.",e3160d16-fe5e-4987-918b-0921ab937804,2
+1,28004,32,6.5,8134,floating around and then suddenly ran into each other. this happened twice,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,1
+4,28005,35,6.5,8163,harshly bashing together,5456278f-d454-4194-af69-2784112cffb9,4
+4,28006,36,6.5,9301,Connect fast then slow,2c174300-1111-477c-b605-e34e6031cd26,4
+1,28007,33,6.5,7739,"Dot moved around slowly, then sped up into each each. This happened twice",8dbfdd79-2b3f-4297-8ec2-92d59884dd68,1
+5,28008,31,6.5,8290,"The dots gravitate towards eachother and collide when they are far away, but this time they collide slower",13e24563-ab7e-41df-adf6-e8e88b4d9e08,5
+5,28009,41,6.5,8165,leading astray,13e24563-ab7e-41df-adf6-e8e88b4d9e08,5
+6,28010,39,6.5,8216,provoked collision,d98f2d5f-eb3b-4ebd-b714-878343382f2a,6
+2,28011,40,6.5,8015,became attracted to each other and combined twice,ed3846d1-c7e9-4e73-a1ab-cd413d18c0b8,2
+3,28012,42,6.5,8058,The dots traded hits while floating about,187f8493-9a30-43cc-a2bd-5d96f6d2263d,3
+1,28013,42,6.5,8347,the two dots moved around and then the black dot moved closer to the grey dot and collided x2.,187f8493-9a30-43cc-a2bd-5d96f6d2263d,1
+1,28014,45,6.5,8126,the dots hit each other then backed away from each other then hit eachother again and backed away again,d98f2d5f-eb3b-4ebd-b714-878343382f2a,1
+4,28015,46,6.5,8220,the dots bounced off one another. almost looked like they were fighting this time,debe6245-13a4-4a31-b28a-e7b25ce8fa93,4
+4,28016,51,6.5,7939,attack,14c0e4c6-94d9-41ec-b44a-5f6c8678230e,4
+4,28017,48,6.5,8010,chase then attack,93e661c0-3f68-4205-9141-04164911b7e4,4
+3,28018,47,6.5,8045,The dots moved in their own space & then abruptly moved together twice.,8dbfdd79-2b3f-4297-8ec2-92d59884dd68,3
+0,28019,52,6.5,7971,the grey dot swept towards the black dot and then the black dot re-directed so they collided together,2c174300-1111-477c-b605-e34e6031cd26,0
+3,28020,49,6.5,7908,"grey dot shadowed black, then rammed it",e3160d16-fe5e-4987-918b-0921ab937804,3
+0,28021,58,6.5,8164,the dots collided into eachother repeatedly,8bee64f6-a3cb-48f4-be48-142b9065f5d7,0
+4,28022,59,6.5,8007,The dots following each other and sometimes crashed one another.,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,4
+4,28023,66,6.5,7833,they attracted and repelled,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,4
+4,28024,65,6.5,7904,same as before,1827c058-6388-491a-b84c-d4d6c512039e,4
+1,28025,63,6.5,8180,dots would charge at each other to the point of colliding. one dot always started the charge and the other seemed to brace itself for impact,5456278f-d454-4194-af69-2784112cffb9,1
+0,28026,64,6.5,7992,they crashed twice,40860eea-1c44-4896-96b1-ee2d42a6c522,0
+3,28027,71,6.5,8274,Dots surged together once and then more gently bumped another time,e2c787c5-5358-4a21-bb35-c422b37ef982,3
+0,28028,68,6.5,8027,Both dots struck each other twice head on.,debe6245-13a4-4a31-b28a-e7b25ce8fa93,0
+4,28029,67,6.5,8271,"the black and grey dot has equal force in being pulled together. At first, it looked like the black dot was initiating the force then in the other bump it looked as though the grey dot was initiating the force",d98f2d5f-eb3b-4ebd-b714-878343382f2a,4
+2,28030,74,6.5,7995,magnetic attraction,e3160d16-fe5e-4987-918b-0921ab937804,2
+6,28031,80,6.5,8029,changed who went first to hit,40860eea-1c44-4896-96b1-ee2d42a6c522,6
+2,28032,73,6.5,8058,they attacked each other more quickly,187f8493-9a30-43cc-a2bd-5d96f6d2263d,2
+1,28033,83,6.5,8159,short circular and then attraction,187f8493-9a30-43cc-a2bd-5d96f6d2263d,1
+3,28034,81,6.5,8269,"The grey dot attacked the black dot first, moved very suddenly",13e24563-ab7e-41df-adf6-e8e88b4d9e08,3
+6,28035,84,6.5,8031,fast hitting black dot,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,6
+1,28036,76,6.5,8068,fought,ed3846d1-c7e9-4e73-a1ab-cd413d18c0b8,1
+0,28037,77,6.5,8287,The dots moved slowly apart then together quickly,d80f638e-7e4b-4e80-bc19-a4b764fd7614,0
+0,28038,86,6.5,7965,They were colliding with each other.,1827c058-6388-491a-b84c-d4d6c512039e,0
+6,28039,90,6.5,7979,The two dots clashed at medium speed,8bee64f6-a3cb-48f4-be48-142b9065f5d7,6
+0,28040,92,6.5,8018,bumped into each other,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,0
+5,28041,85,6.5,9291,collision,7c59d616-cf70-400a-8ebd-9b3cdfb854ec,5
+6,28042,91,6.5,8008,gentle nudging ,5456278f-d454-4194-af69-2784112cffb9,6
+6,28043,99,6.5,8015,faster,ed3846d1-c7e9-4e73-a1ab-cd413d18c0b8,6
+5,28044,96,6.5,8136,sticky attraction leading to collision,e3160d16-fe5e-4987-918b-0921ab937804,5
+1,28045,97,6.5,8293,drama ,debe6245-13a4-4a31-b28a-e7b25ce8fa93,1
+0,28046,94,6.5,7958,dots moved randomly then twice bumped against each other,2c174300-1111-477c-b605-e34e6031cd26,0
+1,28047,95,6.5,8302,"Both dots moved simultaneously and then all of the sudden move towards each other and punched each other, then moved then dashed to each other again and punched.",755a600e-d336-4f66-8771-52eed84faf02,1
+1,28048,89,6.5,8363,The dots hit each other twice,93e661c0-3f68-4205-9141-04164911b7e4,1
+2,28049,88,6.5,8286,The dots floated around each other before hitting each other twice ,8dbfdd79-2b3f-4297-8ec2-92d59884dd68,2
+2,28050,98,6.5,8369,the ball fast  hit each other ,d80f638e-7e4b-4e80-bc19-a4b764fd7614,2
+3,28051,4,6.5,8470,two dots meet at a point,5456278f-d454-4194-af69-2784112cffb9,3
+5,28052,6,6.5,8271,the two dots are hitting one another,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,5
+0,28053,3,6.5,8001,Attacking,187f8493-9a30-43cc-a2bd-5d96f6d2263d,0
+3,28054,8,6.5,8058,8,debe6245-13a4-4a31-b28a-e7b25ce8fa93,3
+6,28055,2,6.5,8286,The black dot is pushing to hit the grey,93e661c0-3f68-4205-9141-04164911b7e4,6
+2,28056,4,6.5,8164,They charged at each other,5456278f-d454-4194-af69-2784112cffb9,2
+0,28057,14,6.5,7959,collided,2c174300-1111-477c-b605-e34e6031cd26,0
+2,28058,13,6.5,12264,"the two dots seems like they are playing, colliding then moving apart",14c0e4c6-94d9-41ec-b44a-5f6c8678230e,2
+1,28059,80,6.5,8031,They both moved towards the left side of the box moving in a squigly motion and than hit each twice and what I mean by that is sped towards each other and crashed into each other similar to what you would think of it looks like if two cars are playing the game chicken against each other.,40860eea-1c44-4896-96b1-ee2d42a6c522,1
+1,28060,19,6.5,8058,bounced off each other twice,e2c787c5-5358-4a21-bb35-c422b37ef982,1
+5,28061,19,6.5,7952,Intersected quickly,e2c787c5-5358-4a21-bb35-c422b37ef982,5
+2,28062,27,6.5,7879,attacks,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,2
+4,28063,16,6.5,9511,Quickly attract then part,d98f2d5f-eb3b-4ebd-b714-878343382f2a,4
+4,28064,17,6.5,8203,They clashed twice,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,4
+5,28065,29,6.5,8018,black seemed to have the upper hand and when it would move towards gray- gray would move towards black,e3160d16-fe5e-4987-918b-0921ab937804,5
+5,28066,25,6.5,7978,For this one they were moving upward. The first time the black dot initiated the hit and the second time the gray dot did,1827c058-6388-491a-b84c-d4d6c512039e,5
+3,28067,32,6.5,8115,The dots moved in a pendulum type movement and then touched,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,3
+5,28068,27,6.5,7998,"dots gently bumping into one another, floating otherwise",2fa02aa8-ef06-46e0-87af-9e3b7267ee79,5
+4,28069,35,6.5,8080,pulled together,5456278f-d454-4194-af69-2784112cffb9,4
+2,28070,26,6.5,8132,The dots hovered around the middle and collided roughly twice.,8bee64f6-a3cb-48f4-be48-142b9065f5d7,2
+3,28071,33,6.5,8134,circular loop,8dbfdd79-2b3f-4297-8ec2-92d59884dd68,3
+4,28072,21,6.5,7920,bouncing in and back,e2c787c5-5358-4a21-bb35-c422b37ef982,4
+3,28073,35,6.5,8091,the two dots moved apart from each other before clashing with each other twice,5456278f-d454-4194-af69-2784112cffb9,3
+1,28074,38,6.5,8118,a fight,d80f638e-7e4b-4e80-bc19-a4b764fd7614,1
+3,28075,30,6.5,8140,attraction,7c59d616-cf70-400a-8ebd-9b3cdfb854ec,3
+0,28076,31,6.5,8246,bouncing off at the center,13e24563-ab7e-41df-adf6-e8e88b4d9e08,0
+4,28077,39,6.5,8472,black followed grey to the right of the screen before they hit then they re-centered and hit again,d98f2d5f-eb3b-4ebd-b714-878343382f2a,4
+4,28078,40,6.5,8510,"onne dot circled, the other pulled up, down, diagonal",ed3846d1-c7e9-4e73-a1ab-cd413d18c0b8,4
+0,28079,23,6.5,8042,connecting,debe6245-13a4-4a31-b28a-e7b25ce8fa93,0
+6,28080,42,6.5,8398,They collided aggressively like the black dot what preventing the white one from something.,187f8493-9a30-43cc-a2bd-5d96f6d2263d,6
+0,28081,43,6.5,7999,the dots are colliding with each other again again,e2c787c5-5358-4a21-bb35-c422b37ef982,0
+5,28082,44,6.5,8081,mirroring again,d80f638e-7e4b-4e80-bc19-a4b764fd7614,5
+4,28083,46,6.5,8016,black dot was attacking grey dot,debe6245-13a4-4a31-b28a-e7b25ce8fa93,4
+2,28084,47,6.5,9053,"they moved around and were collided as if they were fighting,",8dbfdd79-2b3f-4297-8ec2-92d59884dd68,2
+1,28085,51,6.5,8104,collision,14c0e4c6-94d9-41ec-b44a-5f6c8678230e,1
+6,28086,50,6.5,8151,they are discussing,5456278f-d454-4194-af69-2784112cffb9,6
+3,28087,48,6.5,8051,"The dots were being attracted as if by a kind of impulse, dots chose to diverge in different directions",93e661c0-3f68-4205-9141-04164911b7e4,3
+1,28088,52,6.5,8322,the two dots was hitting each other. ,2c174300-1111-477c-b605-e34e6031cd26,1
+5,28089,53,6.5,8039,Slow movement in a circular pattern and then attacked each other,7c59d616-cf70-400a-8ebd-9b3cdfb854ec,5
+3,28090,49,6.5,8109,collide,e3160d16-fe5e-4987-918b-0921ab937804,3
+3,28091,54,6.5,7934,attracting,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,3
+3,28092,55,6.5,8313,"Two touches. 1st time grey moved first, second time black",40860eea-1c44-4896-96b1-ee2d42a6c522,3
+4,28093,56,6.5,7991,more random drawn out movement then crashing into eachother,755a600e-d336-4f66-8771-52eed84faf02,4
+1,28094,57,6.5,7976,The trajectory was different but they contacted each other two times again,1827c058-6388-491a-b84c-d4d6c512039e,1
+3,28095,60,6.5,7999,even slower clashes ,7c59d616-cf70-400a-8ebd-9b3cdfb854ec,3
+6,28096,59,6.5,8137,starts off with a random motion and collision in by both dots. This happened twice.,3c21b0c7-30d1-41a7-99ae-02e24be36ad3,6
+4,28097,58,6.5,8444,challenger,8bee64f6-a3cb-48f4-be48-142b9065f5d7,4
+0,28098,64,6.5,7954,White attacked,40860eea-1c44-4896-96b1-ee2d42a6c522,0
+4,28099,63,6.5,9771,the dots periodically sought out each other and collided,5456278f-d454-4194-af69-2784112cffb9,4
+0,28100,66,6.5,7892,The two animations were colliding with each other in fast rhythm,2fa02aa8-ef06-46e0-87af-9e3b7267ee79,0
+5,28101,65,6.5,8060,the dot moving and bashing each other,1827c058-6388-491a-b84c-d4d6c512039e,5
+4,28102,67,6.5,8164,The black dot on the left collided with the grey dot on the right twice,d98f2d5f-eb3b-4ebd-b714-878343382f2a,4
+2,28000,26,7.75,8015,the black dot attacked the grey dot,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,2
+0,28001,25,7.75,7882,"The dots mostly meaninglessly wandered away from each other with very brief, rapid, instances of sudden closeness",44ab78ba-bb99-4b6d-a69b-ede18f9116ec,0
+5,28002,28,7.75,8156,hit each other fast,50f23891-0e3f-40d3-8bcb-a5bcfcec1987,5
+4,28003,29,7.75,8071,"The black dot bumped into the grey dot initially. The second time, both dots bumped into each other simultanously.",015f75aa-de90-4fdc-8657-d630f1963869,4
+3,28004,32,7.75,7376,"floating, then black moved first and white moved in and the second time it was the other way around",981d9d90-47c5-4443-a939-26060914c7e4,3
+5,28005,35,7.75,8036,keeping a distance then crashing ,7b0c39f7-8bb3-4c19-94da-30117a8ec17d,5
+1,28006,36,7.75,9579,quick ,3dbdd697-e200-4003-92f8-47202577ad0a,1
+6,28007,33,7.75,7700, ,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,6
+3,28008,31,7.75,8279,The dots are pulled towards eachother to collide when they are far away,09060d5d-c3e1-451b-a3b5-4b2b567660ff,3
+2,28009,41,7.75,8083,following,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,2
+5,28010,39,7.75,8146,intentional collisions,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,5
+5,28011,40,7.75,7851,light gray attacked the darker dot twice,65eed33d-db39-4b87-b8a4-de20693d3821,5
+6,28012,42,7.75,7988,The dots moved downwards as they collided,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,6
+2,28013,42,7.75,8149,the 2 dots moved around and then collided with each other x2,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,2
+3,28014,45,7.75,7353,it looked as if they were doing the opposite of eachother,981d9d90-47c5-4443-a939-26060914c7e4,3
+6,28015,46,7.75,8297,dots came together equally almost like magnets,09060d5d-c3e1-451b-a3b5-4b2b567660ff,6
+3,28016,51,7.75,7970,clashing,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,3
+2,28017,48,7.75,8034,direct collisions,3dbdd697-e200-4003-92f8-47202577ad0a,2
+1,28018,47,7.75,8029,The dots collided twice but only briefly.,7f445daf-d952-4bf3-b733-def683994895,1
+6,28019,52,7.75,8018,The dots were floating freely before they redirected to collide and bounce off each other. They repeated this.,015f75aa-de90-4fdc-8657-d630f1963869,6
+0,28020,49,7.75,7925,the dots circled then attacked each other,5a652d01-49a0-4b52-a54c-51c21b53e0fe,0
+6,28021,58,7.75,8079,the dots moved in separate directions before colliding together.,453a1fa5-895a-4a5e-a4cf-25c0a35d74d2,6
+1,28022,59,7.75,7983,The two dots were moving around the box and also fighting in some moment.,085d7298-e568-4752-a909-8eecf82e3ebc,1
+6,28023,66,7.75,7750,they quickly attracted and slowly repelled,8845e64c-078b-4a3a-a732-1efe937de14a,6
+3,28024,65,7.75,8029,they hit eachother twice again at a steeper angle,09060d5d-c3e1-451b-a3b5-4b2b567660ff,3
+3,28025,63,7.75,8088,one dot would start moving quickly towards the other dot and the other dot would move to intercept the incoming dot,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,3
+5,28026,64,7.75,7934,move slowly then touched each other quickly,534a6ddb-dbec-42ac-b559-3f4cbdd66423,5
+0,28027,71,7.75,8349,"The dots moved away from eachother and then bumped into eachother, I think 3 times",3dbdd697-e200-4003-92f8-47202577ad0a,0
+5,28028,68,7.75,7938,Both dots bounced off each other twice at a fast speed. ,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,5
+2,28029,67,7.75,8138,both dots move randomly on their won the pulled together magnetically very fast and instant,44ab78ba-bb99-4b6d-a69b-ede18f9116ec,2
+0,28030,74,7.75,7938,collision,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,0
+4,28031,80,7.75,7812,hit,65eed33d-db39-4b87-b8a4-de20693d3821,4
+4,28032,73,7.75,8037,moved quickly to each other than slowly moved apart,8b590505-e40d-4ff8-802d-5430cc2802b6,4
+3,28033,83,7.75,8014,circle and then attraction ,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,3
+5,28034,81,7.75,8153,"They took turns attacking each other, they moved quite far apart",8845e64c-078b-4a3a-a732-1efe937de14a,5
+2,28035,84,7.75,7388,bash,981d9d90-47c5-4443-a939-26060914c7e4,2
+5,28036,76,7.75,7925,collided,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,5
+2,28037,77,7.75,8156,The dots moved slowly then quickly together,015f75aa-de90-4fdc-8657-d630f1963869,2
+6,28038,86,7.75,8133,They moved far apart from each other then quickly touched each other.,8b590505-e40d-4ff8-802d-5430cc2802b6,6
+3,28039,90,7.75,8034,The two dots clashed twice,3dbdd697-e200-4003-92f8-47202577ad0a,3
+2,28040,92,7.75,7981,bumped into each other,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,2
+6,28041,85,7.75,8662,consecutive collision,085d7298-e568-4752-a909-8eecf82e3ebc,6
+3,28042,91,7.75,8016,moved quickly to bash each other,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,3
+2,28043,99,7.75,8036,Still bumping,09060d5d-c3e1-451b-a3b5-4b2b567660ff,2
+6,28044,96,7.75,8169,collision ,015f75aa-de90-4fdc-8657-d630f1963869,6
+3,28045,97,7.75,8167,attraction ,5a652d01-49a0-4b52-a54c-51c21b53e0fe,3
+4,28046,94,7.75,7963,Both dots performing circles until the grey dot moved sharply to collide with the black dot twice,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,4
+3,28047,95,7.75,8092,"Dots moved freely and at some periods of time they quickly dashed to each other and hit each other, then moved away, moved around and then again dashed to each other and hit each other.",7b0c39f7-8bb3-4c19-94da-30117a8ec17d,3
+6,28048,89,7.75,8183,The two dot meet each other twice,453a1fa5-895a-4a5e-a4cf-25c0a35d74d2,6
+5,28049,88,7.75,8386,The black dot is now on the right and the grey dot on the left and they just bounced on each other twice rom the middle of the box ,50f23891-0e3f-40d3-8bcb-a5bcfcec1987,5
+4,28050,98,7.75,8268,they touched each other ,7f445daf-d952-4bf3-b733-def683994895,4
+5,28051,4,7.75,8361,2 dots hit each other,50f23891-0e3f-40d3-8bcb-a5bcfcec1987,5
+0,28052,6,7.75,8038,the two comes from far and hit one another and go back to roam a little,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,0
+4,28053,3,7.75,7993,Aggressive collisions ,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,4
+4,28054,8,7.75,7879,4,44ab78ba-bb99-4b6d-a69b-ede18f9116ec,4
+5,28055,2,7.75,8313,both moving back to gain momentum as they collide,3dbdd697-e200-4003-92f8-47202577ad0a,5
+5,28056,4,7.75,8005,The black dot is repressed,50f23891-0e3f-40d3-8bcb-a5bcfcec1987,5
+2,28057,14,7.75,7290,collided,981d9d90-47c5-4443-a939-26060914c7e4,2
+1,28058,13,7.75,9749,two dots moving and colliding with a faster speed ,8b590505-e40d-4ff8-802d-5430cc2802b6,1
+5,28059,80,7.75,7894,The dots moved from the center of the square upward at an average speed but this time when they moved to go towards each other and hit each other they moved fast almost like two magnets drawing themselves to each other.,65eed33d-db39-4b87-b8a4-de20693d3821,5
+5,28060,19,7.75,8033,quickly bounced off each other twice,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,5
+6,28061,19,7.75,7993,Rammed into each other,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,6
+1,28062,27,7.75,8048,collisions,7f445daf-d952-4bf3-b733-def683994895,1
+1,28063,16,7.75,9021,Attract and part,085d7298-e568-4752-a909-8eecf82e3ebc,1
+1,28064,17,7.75,8004,They clashed,7b0c39f7-8bb3-4c19-94da-30117a8ec17d,1
+3,28065,29,7.75,8073,seemed like a little jousting session....like a boxing match,015f75aa-de90-4fdc-8657-d630f1963869,3
+2,28066,25,7.75,7838,"The dots very slowly moved away from each other then rapidly hit each other, twice",44ab78ba-bb99-4b6d-a69b-ede18f9116ec,2
+0,28067,32,7.75,7319,The dots moved in a circular motion then came together and touched,981d9d90-47c5-4443-a939-26060914c7e4,0
+6,28068,27,7.75,7968,"centrally floating , and then bumping into one another twice",7f445daf-d952-4bf3-b733-def683994895,6
+3,28069,35,7.75,8049,bumped,7b0c39f7-8bb3-4c19-94da-30117a8ec17d,3
+0,28070,26,7.75,7992,The dots moved up and then collided twice.,a57832a0-0b6a-4bdf-a636-adf042cd3fcc,0
+2,28071,33,7.75,8032,clashed after distance,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,2
+6,28072,21,7.75,7824,going around and meeting each other,65eed33d-db39-4b87-b8a4-de20693d3821,6
+1,28073,35,7.75,8015,the two dots clashed with one another after mover dissimilar,7b0c39f7-8bb3-4c19-94da-30117a8ec17d,1
+4,28074,38,7.75,7920,anger,534a6ddb-dbec-42ac-b559-3f4cbdd66423,4
+4,28075,30,7.75,8080,they kept coming to each other no matter how far they went away,8aeee0c2-7419-4cbe-aa42-af10b66f80b4,4
+2,28076,31,7.75,8280,white going farther off from black,09060d5d-c3e1-451b-a3b5-4b2b567660ff,2
+3,28077,39,7.75,8564,after the first hit they started to circle around eachother for about a half circle,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,3
+2,28078,40,7.75,8265,both dots had sharp movements,65eed33d-db39-4b87-b8a4-de20693d3821,2
+2,28079,23,7.75,8049,joining,453a1fa5-895a-4a5e-a4cf-25c0a35d74d2,2
+2,28080,42,7.75,8062,They hit each other and seperate. ,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,2
+3,28081,43,7.75,7959,aggressive collisions,7b0c39f7-8bb3-4c19-94da-30117a8ec17d,3
+3,28082,44,7.75,8103,grey chased black,8b590505-e40d-4ff8-802d-5430cc2802b6,3
+2,28083,46,7.75,8120,bumped into each other violently,09060d5d-c3e1-451b-a3b5-4b2b567660ff,2
+4,28084,47,7.75,9022,they moved diagonally and collided in between and separated again  ,7f445daf-d952-4bf3-b733-def683994895,4
+2,28085,51,7.75,8036,aggressively colliding,2d84acc9-9c9b-441c-9a1a-c901bc48b88f,2
+3,28086,50,7.75,8104,they are arguing,8aeee0c2-7419-4cbe-aa42-af10b66f80b4,3
+6,28087,48,7.75,8086,"In this occasion, the dots looks like two rams hitting each other ",3dbdd697-e200-4003-92f8-47202577ad0a,6
+0,28088,52,7.75,8153,the two dots was fighting.,015f75aa-de90-4fdc-8657-d630f1963869,0
+3,28089,53,7.75,7909,Calmly moving but then attacked each other,50f23891-0e3f-40d3-8bcb-a5bcfcec1987,3
+5,28090,49,7.75,8173,collision,5a652d01-49a0-4b52-a54c-51c21b53e0fe,5
+6,28091,54,7.75,7909,attraction,534a6ddb-dbec-42ac-b559-3f4cbdd66423,6
+4,28092,55,7.75,8199,Slow movements and then two faster moves to come together,905c9d73-dba9-472d-a6e4-ea3dcd3b3530,4
+5,28093,56,7.75,7907,random movements at afar then crashing into eachother,8845e64c-078b-4a3a-a732-1efe937de14a,5
+4,28094,57,7.75,7822,They circled on the middle and touched each other two times,44ab78ba-bb99-4b6d-a69b-ede18f9116ec,4
+0,28095,60,7.75,7989,they hit each other,5a652d01-49a0-4b52-a54c-51c21b53e0fe,0
+5,28096,59,7.75,8075,double collision with each other.,085d7298-e568-4752-a909-8eecf82e3ebc,5
+0,28097,58,7.75,8235,hitting each other,453a1fa5-895a-4a5e-a4cf-25c0a35d74d2,0
+3,28098,64,7.75,7929,Dots collided with eachother.,534a6ddb-dbec-42ac-b559-3f4cbdd66423,3
+1,28099,63,7.75,10033,The dots bumped into each other several times,8ecf5da9-a68c-4392-8c1a-ecb9754dd9d9,1
+2,28100,66,7.75,8021,the animations were colliding,8845e64c-078b-4a3a-a732-1efe937de14a,2
+2,28101,65,7.75,8177,targeting and hitting each other,09060d5d-c3e1-451b-a3b5-4b2b567660ff,2
+0,28102,67,7.75,7902,The dots collided with each other twice,44ab78ba-bb99-4b6d-a69b-ede18f9116ec,0
+4,28000,26,9.0,7657,The grey dot attacked the black dot and the black dot defended itself,8e6be05b-c10c-43db-b062-a559f5033312,4
+2,28001,25,9.0,8035,The black dot moved away from the grey dot but then both dots furiously came back together rapidly for a brief time before restarting the chase.,abb20336-74c4-448b-a5f7-252c765a55f4,2
+1,28002,28,9.0,8346,hit twice and started switching sides,9301277e-6b35-4aa7-bd52-4f56ae0f029b,1
+1,28003,29,9.0,8160,the dots bumped into each other twice,1be4605b-9f78-45d4-8eb0-87bdc69537e2,1
+2,28004,32,9.0,8093,"again, floating and randomly run into each other, like they are in a fight",f45daf2e-6d4e-4a6f-ab5b-1829d67d93fe,2
+6,28005,35,9.0,8176,light grey dot moving first to collide,6a57f963-5846-4eaa-a5d2-0e658499a4a9,6
+0,28006,36,9.0,9377,Magnetic,059f8cfb-52c8-47fd-8d26-b0fec58eafae,0
+4,28007,33,9.0,7698,"Accelerated into each other twice, otherwise were moving around slowly",9f7e489f-4076-4332-b57e-13a42d4c75fd,4
+0,28008,31,9.0,8148,The dots collide and then move away from each other twice,3322caf5-0aeb-4230-89db-c56b23e94819,0
+3,28009,41,9.0,8233,chasing,7d40f846-95bc-4c08-b7a1-b4a410852b77,3
+2,28010,39,9.0,8213,the dots collided aggressively,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,2
+1,28011,40,9.0,8017,rapidly collided twice,3322caf5-0aeb-4230-89db-c56b23e94819,1
+2,28012,42,9.0,8037,They flew at each other fast,2abe0875-f8ff-4373-aad8-bca142211a09,2
+3,28013,42,9.0,8198,the same as before-the dots moved around and collided with each other x2,2abe0875-f8ff-4373-aad8-bca142211a09,3
+0,28014,45,9.0,7943,the two dots roamed around randomly and hit each other twice,91327185-f59e-4ae7-a000-fd66526bab82,0
+0,28015,46,9.0,8279,the dots alternated between slowly moving apart and rapidly being drawn into one another,a5228b86-ba0a-42f2-aa38-23b5369f0e56,0
+0,28016,51,9.0,8073,clashing,9301277e-6b35-4aa7-bd52-4f56ae0f029b,0
+0,28017,48,9.0,7866,head-on collisions,132133b4-5554-4500-9494-87f534100012,0
+6,28018,47,9.0,8090,The dots moved relatively slow & then abruptly moved together quickly then apart. This occured twice.,6e2932f2-a9d1-4f2a-9599-a872b605c1eb,6
+5,28019,52,9.0,8139,the dots were moving freely until they both redirected and chose to collide quickly with each other,9f7e489f-4076-4332-b57e-13a42d4c75fd,5
+2,28020,49,9.0,7816,dots went opposite then together,7a2ccf3c-feb4-4b5c-9c03-44c10f774f9a,2
+2,28021,58,9.0,8183,the dots moved outwards before colliding together.,f45daf2e-6d4e-4a6f-ab5b-1829d67d93fe,2
+6,28022,59,9.0,8031,The dots looked like enemy of each other and fighting.,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,6
+2,28023,66,9.0,7889,they attracted fast then repelled,9f7e489f-4076-4332-b57e-13a42d4c75fd,2
+6,28024,65,9.0,8039,they hit each other hard from a horizontal angle,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,6
+4,28025,63,9.0,8134,one dot would charge towards the other dot whilst the other dot was in a cycle of moving away from the first dot,9301277e-6b35-4aa7-bd52-4f56ae0f029b,4
+6,28026,64,9.0,8083,move closer until touching then away then touching each other again,8649b489-429a-4894-9c74-827e94f04566,6
+5,28027,71,9.0,8157,Dots were floating around then bumped together twice,7a2ccf3c-feb4-4b5c-9c03-44c10f774f9a,5
+1,28028,68,9.0,7999,"Both dots struck each other, the grey dot was the one that struck first.",abb20336-74c4-448b-a5f7-252c765a55f4,1
+5,28029,67,9.0,8191,With this one i feel the grey dot's movement was less chaotic and the black dot movement was more round and in a circular motion before coming together or being pulled in within the frame,1be4605b-9f78-45d4-8eb0-87bdc69537e2,5
+6,28030,74,9.0,8063,attacking each other,16718611-6bca-4e79-8071-94d68c181ba1,6
+3,28031,80,9.0,7954,hit,9f7e489f-4076-4332-b57e-13a42d4c75fd,3
+0,28032,73,9.0,7989,the had a gravitational pull if close enough,7d40f846-95bc-4c08-b7a1-b4a410852b77,0
+4,28033,83,9.0,8120,total collision ,9301277e-6b35-4aa7-bd52-4f56ae0f029b,4
+4,28034,81,9.0,8213,"Black dot fought the grey dot, attacked a few times",3322caf5-0aeb-4230-89db-c56b23e94819,4
+4,28035,84,9.0,8108,gliding smash,a5228b86-ba0a-42f2-aa38-23b5369f0e56,4
+4,28036,76,9.0,7985,attacked,059f8cfb-52c8-47fd-8d26-b0fec58eafae,4
+6,28037,77,9.0,8185,The dots moved slowly apart then quickly together,2abe0875-f8ff-4373-aad8-bca142211a09,6
+3,28038,86,9.0,8145,They were copying each other's movements and then touching one another.,6e2932f2-a9d1-4f2a-9599-a872b605c1eb,3
+4,28039,90,9.0,8010,The two dots clashed twice,6a57f963-5846-4eaa-a5d2-0e658499a4a9,4
+6,28040,92,9.0,8043,bumped into each other quickly,1be4605b-9f78-45d4-8eb0-87bdc69537e2,6
+0,28041,85,9.0,8607,conflict,132133b4-5554-4500-9494-87f534100012,0
+5,28042,91,9.0,7885,sudden movement together,7a2ccf3c-feb4-4b5c-9c03-44c10f774f9a,5
+1,28043,99,9.0,8042,Bumping fast,059f8cfb-52c8-47fd-8d26-b0fec58eafae,1
+1,28044,96,9.0,8317,collision ,f45daf2e-6d4e-4a6f-ab5b-1829d67d93fe,1
+2,28045,97,9.0,8378,single match fight,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,2
+6,28046,94,9.0,8044,Black dot moved sharply to collide with the grey dot twice,2abe0875-f8ff-4373-aad8-bca142211a09,6
+5,28047,95,9.0,8117,"Dots moved around and all of the sudden they dashed to each other and hit each other, then moved away, moved around and then dashed towards each other again and hit each other.",87da47db-3d5c-48b2-b3f2-123123d766f0,5
+2,28048,89,9.0,7806,The gray and black dot hit each other twice,8e6be05b-c10c-43db-b062-a559f5033312,2
+4,28049,88,9.0,8304,The black dot in a swapped position floated to the top of the box and hit each other twice with the black dot on top and bouncing on the grey dot twice  ,91327185-f59e-4ae7-a000-fd66526bab82,4
+6,28050,98,9.0,8372,fast hitting each other ,abb20336-74c4-448b-a5f7-252c765a55f4,6
+6,28051,4,9.0,8466,collision between 2 dots,abb20336-74c4-448b-a5f7-252c765a55f4,6
+3,28052,6,9.0,8443,i dont know,9301277e-6b35-4aa7-bd52-4f56ae0f029b,3
+6,28053,3,9.0,8020,Aggressive collisions instigated by black dot ,1be4605b-9f78-45d4-8eb0-87bdc69537e2,6
+5,28054,8,9.0,8107,black,6e2932f2-a9d1-4f2a-9599-a872b605c1eb,5
+4,28055,2,9.0,8260,they both went for the collision twice,7d40f846-95bc-4c08-b7a1-b4a410852b77,4
+4,28056,4,9.0,8167,The white dot attacked the black dot.,abb20336-74c4-448b-a5f7-252c765a55f4,4
+1,28057,14,9.0,8061,collided,16718611-6bca-4e79-8071-94d68c181ba1,1
+5,28058,13,9.0,9886,the two dots seem to be fighting,6a57f963-5846-4eaa-a5d2-0e658499a4a9,5
+0,28059,80,9.0,7964,They each rotated in a small circle and then hit each other and than they moved apart and hit each other again.,9f7e489f-4076-4332-b57e-13a42d4c75fd,0
+6,28060,19,9.0,8085,quickly bounced off each other twice,a5228b86-ba0a-42f2-aa38-23b5369f0e56,6
+2,28061,19,9.0,8071,Rammed into each other,a5228b86-ba0a-42f2-aa38-23b5369f0e56,2
+3,28062,27,9.0,8059,fight,2abe0875-f8ff-4373-aad8-bca142211a09,3
+6,28063,16,9.0,9574,"Moving in circle, attract then part",8649b489-429a-4894-9c74-827e94f04566,6
+0,28064,17,9.0,8051,clashed,9f7e489f-4076-4332-b57e-13a42d4c75fd,0
+6,28065,29,9.0,8028,black was moving faster towards gray this time,1be4605b-9f78-45d4-8eb0-87bdc69537e2,6
+3,28066,25,9.0,8037,The dots moved in unison then hit twice,abb20336-74c4-448b-a5f7-252c765a55f4,3
+2,28067,32,9.0,8096,the dots move in ever growing angles then touched,f45daf2e-6d4e-4a6f-ab5b-1829d67d93fe,2
+4,28068,27,9.0,8086,dots quickly bashing off of one another twice,2abe0875-f8ff-4373-aad8-bca142211a09,4
+0,28069,35,9.0,8028,bumping,6a57f963-5846-4eaa-a5d2-0e658499a4a9,0
+6,28070,26,9.0,7730,The dots hovered around the middle of the box and collided twice.,8e6be05b-c10c-43db-b062-a559f5033312,6
+1,28071,33,9.0,8098,connected,9f7e489f-4076-4332-b57e-13a42d4c75fd,1
+1,28072,21,9.0,8084,Moving,16718611-6bca-4e79-8071-94d68c181ba1,1
+5,28073,35,9.0,8097,the two dots nodded each other after moving in a dissimilar manner,6a57f963-5846-4eaa-a5d2-0e658499a4a9,5
+5,28074,38,9.0,8116,fighting,87da47db-3d5c-48b2-b3f2-123123d766f0,5
+5,28075,30,9.0,8305,they always found a way to come back together,7d40f846-95bc-4c08-b7a1-b4a410852b77,5
+5,28076,31,9.0,8222,both dots steering close to the center ,3322caf5-0aeb-4230-89db-c56b23e94819,5
+0,28077,39,9.0,8270,Mirrored eachother and hit eachother 3 times.,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,0
+5,28078,40,9.0,8383,"one dot floated up, the other sharply pulled left",3322caf5-0aeb-4230-89db-c56b23e94819,5
+3,28079,23,9.0,8119,connect,8649b489-429a-4894-9c74-827e94f04566,3
+0,28080,42,9.0,8030,The moved away and collided with each other multiple times,2abe0875-f8ff-4373-aad8-bca142211a09,0
+1,28081,43,9.0,8104,its like they are fighthing ,059f8cfb-52c8-47fd-8d26-b0fec58eafae,1
+1,28082,44,9.0,8112,pulled toward each other,87da47db-3d5c-48b2-b3f2-123123d766f0,1
+5,28083,46,9.0,8051,grey dot was responding to black dot attacks,a5228b86-ba0a-42f2-aa38-23b5369f0e56,5
+0,28084,47,9.0,7999,it looks like they were fighting,6e2932f2-a9d1-4f2a-9599-a872b605c1eb,0
+3,28085,51,9.0,8101,Hitting each other,9301277e-6b35-4aa7-bd52-4f56ae0f029b,3
+2,28086,50,9.0,8153,they are in a collusion,1be4605b-9f78-45d4-8eb0-87bdc69537e2,2
+1,28087,48,9.0,8014,"The dots on this occasion it seemed as if they were facing each other, like a fight",132133b4-5554-4500-9494-87f534100012,1
+6,28088,52,9.0,8200,is like the the two dots are confronting each other.,9f7e489f-4076-4332-b57e-13a42d4c75fd,6
+2,28089,53,9.0,7627,Circular movement until they reached closer to each other. Began attacking,8e6be05b-c10c-43db-b062-a559f5033312,2
+1,28090,49,9.0,8208,bouncing on each other,7a2ccf3c-feb4-4b5c-9c03-44c10f774f9a,1
+0,28091,54,9.0,8000,atacking,abb20336-74c4-448b-a5f7-252c765a55f4,0
+0,28092,55,9.0,8322,"Mirroring, then a collision",8649b489-429a-4894-9c74-827e94f04566,0
+3,28093,56,9.0,7955,wide circular movement then crashing into eachother,6a57f963-5846-4eaa-a5d2-0e658499a4a9,3
+5,28094,57,9.0,8006,Circled below center of the box touched two times,16718611-6bca-4e79-8071-94d68c181ba1,5
+1,28095,60,9.0,8053,they hit each other twice,a5228b86-ba0a-42f2-aa38-23b5369f0e56,1
+3,28096,59,9.0,8182,Both dots collides and separate almost immediately.,5b2465b2-47b6-4cc7-b06f-c362ff7454f8,3
+1,28097,58,9.0,8565,the dots are shadowing each other,f45daf2e-6d4e-4a6f-ab5b-1829d67d93fe,1
+5,28098,64,9.0,8001,Dots collided twice.,8649b489-429a-4894-9c74-827e94f04566,5
+2,28099,63,9.0,9976,The dots periodically collided ,9301277e-6b35-4aa7-bd52-4f56ae0f029b,2
+6,28100,66,9.0,8060,the animations speedily hit each other ,9f7e489f-4076-4332-b57e-13a42d4c75fd,6
+0,28101,65,9.0,8018,"the dot fighting, hitting each other",5b2465b2-47b6-4cc7-b06f-c362ff7454f8,0
+3,28102,67,9.0,8088,The grey dot collided with the black dot twice,1be4605b-9f78-45d4-8eb0-87bdc69537e2,3
