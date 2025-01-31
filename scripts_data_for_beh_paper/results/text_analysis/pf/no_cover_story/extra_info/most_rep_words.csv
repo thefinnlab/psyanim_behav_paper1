@@ -1,0 +1,8 @@
+chargeSpeed,most_representative_words
+1.5,"['motion', 'bounce', 'pair']"
+2.75,"['bounce', 'motion', 'rebound']"
+4.0,"['rebound', 'bounce', 'motion']"
+5.25,"['rebound', 'interfere', 'conflict']"
+6.5,"['fistfight', 'rebound', 'impact']"
+7.75,"['fistfight', 'motion', 'bounce']"
+9.0,"['fistfight', 'conflict', 'clash']"

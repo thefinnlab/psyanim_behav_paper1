@@ -1,0 +1,15 @@
+chargeSpeed,most_representative_words
+9,"['collide' 'backslide' 'fistfight' 'clash' 'conflict' 'counterattack'  'maneuver' 'motion' 'quarrel' 'interfere'
+ 'outfight' 'fight' 'impact' 'bounce' 'attack' 'battle' 'force' 'encounter' 'dogfight' 'intercalate']"
+7.75,"['collide' 'backslide' 'motion' 'fistfight' 'interfere' 'conflict' 'impact' 'bounce' 'clash' 'interrelate'
+ 'rebound' 'encounter' 'overlap'  'maneuver' 'intercalate' 'coincide' 'counterattack' 'quarrel' 'pair'  'force']"
+6.5,"['collide' 'backslide' 'fistfight' 'motion' 'impact' 'bounce' 'rebound' 'maneuver' 'interfere' 'counterattack'
+ 'attack' 'clash' 'force'  'conflict' 'intercalate' 'hit' 'encounter' 'outfight' 'quarrel' 'flinch']"
+5.25,"['collide' 'backslide' 'motion' 'interfere' 'conflict' 'clash' 'interrelate' 'maneuver' 'rebound' 'fistfight'
+ 'bounce' 'intercalate' 'impact' 'counterattack' 'coincide' 'pair' 'quarrel' 'encounter' 'overlap' 'force']"
+4,"['collide' 'backslide' 'motion' 'bounce' 'rebound' 'fistfight' 'interfere' 'maneuver' 'conflict' 'clash'
+ 'intercalate' 'impact' 'encounter' 'force' 'interrelate' 'counterattack' 'quarrel' 'outfight' 'pair' 'match']"
+2.75,"['collide' 'backslide' 'motion' 'bounce' 'maneuver' 'rebound' 'fistfight' 'force' 'impact' 'thud'
+ 'dibble' 'flinch' 'interfere' 'wobble' 'speed'  'intercalate' 'hit' 'clash' 'pair' 'wiggle']"
+1.5,"['collide' 'backslide' 'motion' 'pair' 'maneuver' 'bounce' 'speed' 'slow' 'force' 'rebound'
+ 'touch' 'dibble' 'interfere' 'intercalate' 'intermingle' 'couple' 'collaborate' 'interrelate' 'clash' 'encounter']"

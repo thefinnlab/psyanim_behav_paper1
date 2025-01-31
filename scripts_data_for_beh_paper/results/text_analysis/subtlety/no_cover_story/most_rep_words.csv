@@ -1,0 +1,8 @@
+directness,most_representative_words
+0.0,"['move', 'reposition', 'circularise', 'lateralize']"
+0.17,"['move', 'wiggle', 'lateralize']"
+0.33,"['move', 'reposition', 'lateralize']"
+0.5,"['move', 'lateralize', 'reposition']"
+0.67,"['follow', 'forward', 'pursue']"
+0.83,"['follow', 'move', 'forward']"
+1.0,"['follow', 'pursue', 'forward']"
